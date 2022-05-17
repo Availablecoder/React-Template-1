@@ -1,0 +1,87 @@
+/* Start Variables */
+:root {
+  --sec-color-1: #1da1c9;
+  --sec-color-2: #29db74;
+  --main-color-1: #3b30d1;
+  --main-color-2: #00ded3;
+  --main-color-3: #160b57;
+}
+/* End Variables */
+
+/* Start Globals */
+ul {
+  list-style-type: none;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+}
+@media (max-width: 1200px) {
+  .section-img-1,
+  .section-img-2,
+  .section-img-3 {
+    display: none;
+  }
+}
+
+/* End Globals */
+
+/* Start Components */
+.section-padding {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.main-btn-2 {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 8px;
+  color: #fff;
+  background: linear-gradient(to top, var(--sec-color-1), var(--sec-color-2));
+}
+.main-btn-2:hover {
+  background: linear-gradient(
+    to bottom,
+    var(--sec-color-1),
+    var(--sec-color-2)
+  );
+}
+
+.main-heading {
+  text-align: center;
+}
+
+.main-heading .title {
+  display: flex;
+  align-items: center;
+  width: 150px;
+  padding: 5px;
+  margin: 0 auto 10px;
+  border-radius: 50px;
+  color: #fff;
+  background: linear-gradient(to top, var(--main-color-1), var(--main-color-2));
+}
+
+.main-heading .title .icon {
+  font-size: 26px;
+  background-color: var(--sec-color-2);
+  padding: 3px;
+  border-radius: 50%;
+}
+
+.main-heading .title .text {
+  flex: 1;
+  padding-right: 10px;
+}
+
+.main-heading-start {
+  text-align: left;
+}
+
+.main-heading-start .title {
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+/* End Components */

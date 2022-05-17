@@ -1,0 +1,35 @@
+section.why-choose-us {
+  position: relative;
+}
+section.why-choose-us .section-img-1 {
+  position: absolute;
+  bottom: 30px;
+  left: -10px;
+  z-index: -1;
+}
+
+.why-choose-image {
+  width: calc(100%);
+}
+
+.why-choose-box {
+  display: flex;
+}
+.why-choose-box:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.why-choose-box .icon {
+  height: fit-content;
+  padding: 10px;
+  border-radius: 50%;
+  background: linear-gradient(to top, var(--sec-color-1), var(--sec-color-2));
+  color: #fff;
+}
+
+.why-choose-box svg {
+  display: block;
+}
+.why-choose-box .content {
+  margin-left: 20px;
+}

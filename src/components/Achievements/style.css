@@ -1,0 +1,7 @@
+section.achievements {
+  background-color: #fafafa;
+  background-image: url("../../assets/images/maps.svg");
+  background-size: contain;
+  background-position: 50% 20px;
+  background-repeat: no-repeat;
+}

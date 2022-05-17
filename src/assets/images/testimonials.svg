@@ -1,0 +1,1325 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 741 642" width="741" height="642">
+	<title>testimonials</title>
+	<defs>
+		<linearGradient id="g1" x1="120.7" y1="107.8" x2="120.7" y2="247.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#29db74"/>
+			<stop offset=".3" stop-color="#25ca8b"/>
+			<stop offset="1" stop-color="#1da1c9"/>
+			<stop offset="1" stop-color="#1da1ca"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="354.6" y1="33.3" x2="354.6" y2="627.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#120648"/>
+			<stop offset=".6" stop-color="#493eff"/>
+			<stop offset="1" stop-color="#00ded3"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="340" y1="19.9" x2="340" y2="610.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#29db74"/>
+			<stop offset=".3" stop-color="#25ca8b"/>
+			<stop offset="1" stop-color="#1da1c9"/>
+			<stop offset="1" stop-color="#1da1ca"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="179.5" y1="370.4" x2="176.7" y2="372.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#c7e9f9"/>
+			<stop offset="1" stop-color="#f1f9fe"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="1356.4" y1="430.3" x2="1361.9" y2="500" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3a3c63"/>
+			<stop offset="1" stop-color="#40447b"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="1402.1" y1="552.4" x2="1401.7" y2="535.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3a3c63"/>
+			<stop offset="1" stop-color="#40447b"/>
+		</linearGradient>
+		<linearGradient id="g7" x1="1360.9" y1="552.1" x2="1360.5" y2="534.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3a3c63"/>
+			<stop offset="1" stop-color="#40447b"/>
+		</linearGradient>
+		<linearGradient id="g8" x1="1394.7" y1="424.9" x2="1373.5" y2="473.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3a3c63"/>
+			<stop offset="1" stop-color="#40447b"/>
+		</linearGradient>
+		<linearGradient id="g9" x1="242.6" y1="392.4" x2="156.5" y2="394.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6443d7"/>
+			<stop offset="1" stop-color="#ac5df9"/>
+		</linearGradient>
+		<linearGradient id="g10" x1="5913.2" y1="486.9" x2="5976.3" y2="486.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#5e6398"/>
+			<stop offset="1" stop-color="#292e6f"/>
+		</linearGradient>
+		<linearGradient id="g11" x1="1635.3" y1="454.7" x2="1702" y2="454.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6443d7"/>
+			<stop offset="1" stop-color="#ac5df9"/>
+		</linearGradient>
+		<linearGradient id="g12" x1="-2160.6" y1="503.5" x2="-2135.1" y2="527.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g13" x1="1675" y1="497.3" x2="1746.9" y2="497.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fb40b7"/>
+			<stop offset="1" stop-color="#c639af"/>
+		</linearGradient>
+		<linearGradient id="g14" x1="447" y1="51.2" x2="522.9" y2="51.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g15" x1="532.4" y1="66.6" x2="537.5" y2="66.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g16" x1="525.4" y1="62.9" x2="530.5" y2="62.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g17" x1="518.3" y1="59.4" x2="523.4" y2="59.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g18" x1="552.7" y1="79.1" x2="557.8" y2="79.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g19" x1="546.1" y1="74.7" x2="551.2" y2="74.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g20" x1="539.3" y1="70.5" x2="544.5" y2="70.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g21" x1="570.9" y1="94.6" x2="575.8" y2="94.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g22" x1="565.2" y1="89" x2="570.2" y2="89" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g23" x1="559.1" y1="83.9" x2="564.2" y2="83.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g24" x1="583.5" y1="115" x2="587" y2="115" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g25" x1="580.4" y1="107.5" x2="584.8" y2="107.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g26" x1="576.1" y1="100.8" x2="580.9" y2="100.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g27" x1="577.1" y1="137.7" x2="581.9" y2="137.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g28" x1="581.5" y1="130.9" x2="585.7" y2="130.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g29" x1="584.1" y1="123.3" x2="587.2" y2="123.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g30" x1="558.4" y1="152.7" x2="563.6" y2="152.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g31" x1="565.2" y1="148.5" x2="570.3" y2="148.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g32" x1="571.4" y1="143.6" x2="576.5" y2="143.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g33" x1="536.5" y1="162" x2="541.5" y2="162" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g34" x1="544" y1="159.3" x2="549.1" y2="159.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g35" x1="551.3" y1="156.3" x2="556.4" y2="156.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g36" x1="513.5" y1="168" x2="518.4" y2="168" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g37" x1="521.2" y1="166.2" x2="526.2" y2="166.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g38" x1="528.9" y1="164.3" x2="533.9" y2="164.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g39" x1="490.1" y1="171.8" x2="494.8" y2="171.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g40" x1="497.9" y1="170.7" x2="502.7" y2="170.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g41" x1="505.7" y1="169.4" x2="510.5" y2="169.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g42" x1="466.4" y1="174.2" x2="471" y2="174.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g43" x1="474.3" y1="173.5" x2="479" y2="173.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g44" x1="482.2" y1="172.7" x2="486.8" y2="172.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g45" x1="442.7" y1="175.4" x2="447.2" y2="175.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g46" x1="450.6" y1="175.1" x2="455.1" y2="175.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g47" x1="458.5" y1="174.7" x2="463" y2="174.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g48" x1="418.9" y1="175.5" x2="423.3" y2="175.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g49" x1="426.8" y1="175.5" x2="431.2" y2="175.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g50" x1="434.7" y1="175.5" x2="439.2" y2="175.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6466d7"/>
+			<stop offset="1" stop-color="#ac81f9"/>
+		</linearGradient>
+		<linearGradient id="g51" x1="247.9" y1="311.8" x2="480.2" y2="311.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#29db74"/>
+			<stop offset=".3" stop-color="#25ca8b"/>
+			<stop offset="1" stop-color="#1da1c9"/>
+			<stop offset="1" stop-color="#1da1ca"/>
+		</linearGradient>
+		<linearGradient id="g52" x1="607.1" y1="308.8" x2="654.5" y2="308.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a2ed94"/>
+			<stop offset="1" stop-color="#69c7b3"/>
+		</linearGradient>
+		<linearGradient id="g53" x1="337.2" y1="34.6" x2="394.1" y2="34.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g54" x1="346.8" y1="39.9" x2="383.1" y2="39.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#c7e9f9"/>
+			<stop offset="1" stop-color="#f1f9fe"/>
+		</linearGradient>
+		<linearGradient id="g55" x1="416.4" y1="57.6" x2="416.4" y2="57.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fb7db7"/>
+			<stop offset="1" stop-color="#fdacaf"/>
+		</linearGradient>
+		<linearGradient id="g56" x1="320.4" y1="57.6" x2="320.4" y2="57.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fb7db7"/>
+			<stop offset="1" stop-color="#fdacaf"/>
+		</linearGradient>
+		<linearGradient id="g57" x1="334.6" y1="55.8" x2="396.7" y2="55.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g58" x1="52.1" y1="450.8" x2="120.2" y2="450.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a2ed94"/>
+			<stop offset="1" stop-color="#69c7b3"/>
+		</linearGradient>
+		<linearGradient id="g59" x1="95.7" y1="526.6" x2="77.9" y2="508.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a2ed94"/>
+			<stop offset="1" stop-color="#69c7b3"/>
+		</linearGradient>
+		<linearGradient id="g60" x1="30.8" y1="63.1" x2="89.6" y2="63.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g61" x1="45.5" y1="78.9" x2="67.6" y2="78.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fb40b7"/>
+			<stop offset="1" stop-color="#c639af"/>
+		</linearGradient>
+		<linearGradient id="g62" x1="177" y1="289.9" x2="236.6" y2="289.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3a3c63"/>
+			<stop offset="1" stop-color="#40447b"/>
+		</linearGradient>
+		<linearGradient id="g63" x1="369.2" y1="283" x2="369.2" y2="220.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fb40b7"/>
+			<stop offset="1" stop-color="#c639af"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m318.15 268.99c-7.81 7.81-20.43 7.81-28.24 0-7.81-7.81-7.81-20.43 0-28.23 7.81-7.81 20.43-7.81 28.24 0 7.8 7.8 7.8 20.42 0 28.23z"/>
+		</clipPath>
+		<linearGradient id="g64" x1="288" y1="276" x2="320" y2="276" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fb7db7"/>
+			<stop offset="1" stop-color="#fdacaf"/>
+		</linearGradient>
+		<linearGradient id="g65" x1="338.8" y1="236.9" x2="355.9" y2="236.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g66" x1="358.6" y1="236.9" x2="375.6" y2="236.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g67" x1="378.4" y1="236.9" x2="395.4" y2="236.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g68" x1="398.1" y1="236.9" x2="415.1" y2="236.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g69" x1="417.9" y1="236.9" x2="434.9" y2="236.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g70" x1="369.2" y1="356.2" x2="369.2" y2="293.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3393eb"/>
+			<stop offset="1" stop-color="#37bedf"/>
+		</linearGradient>
+		<linearGradient id="g71" x1="338.8" y1="310.2" x2="355.9" y2="310.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g72" x1="358.5" y1="310.2" x2="375.6" y2="310.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g73" x1="378.2" y1="310.2" x2="395.3" y2="310.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g74" x1="398" y1="310.2" x2="415" y2="310.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m311.71 346.74c-10.14 4.2-21.73-0.61-25.93-10.75-4.2-10.14 0.6-21.73 10.74-25.93 10.14-4.2 21.73 0.6 25.93 10.74 4.2 10.14-0.6 21.74-10.74 25.94z"/>
+		</clipPath>
+		<linearGradient id="g75" x1="288.2" y1="348.4" x2="320" y2="348.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3393eb"/>
+			<stop offset="1" stop-color="#37bedf"/>
+		</linearGradient>
+		<linearGradient id="g76" x1="427.1" y1="321" x2="464.3" y2="321" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#febf00"/>
+			<stop offset="1" stop-color="#ffdf00"/>
+		</linearGradient>
+		<linearGradient id="g77" x1="-1334.8" y1="548.5" x2="-1335.8" y2="532.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3a3c63"/>
+			<stop offset="1" stop-color="#40447b"/>
+		</linearGradient>
+		<linearGradient id="g78" x1="-1284.1" y1="551.9" x2="-1284.5" y2="534.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3a3c63"/>
+			<stop offset="1" stop-color="#40447b"/>
+		</linearGradient>
+		<linearGradient id="g79" x1="-1313.5" y1="539.4" x2="-1313.5" y2="427.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#5e6398"/>
+			<stop offset="1" stop-color="#292e6f"/>
+		</linearGradient>
+		<linearGradient id="g80" x1="-1413.6" y1="478.8" x2="-1161.2" y2="478.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3a3c63"/>
+			<stop offset="1" stop-color="#40447b"/>
+		</linearGradient>
+		<linearGradient id="g81" x1="-1225.3" y1="362.9" x2="-1363.7" y2="401.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#a2ed94"/>
+			<stop offset="1" stop-color="#69c7b3"/>
+		</linearGradient>
+		<linearGradient id="g82" x1="-1342" y1="436.4" x2="-1284.4" y2="436.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#3a3c63"/>
+			<stop offset="1" stop-color="#40447b"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { opacity: .8;fill: url(#g1) } 
+		.s1 { opacity: .7;fill: url(#g2) } 
+		.s2 { opacity: .9;fill: url(#g3) } 
+		.s3 { fill: #43457b } 
+		.s4 { fill: url(#g4) } 
+		.s5 { fill: #f8ac9b } 
+		.s6 { fill: url(#g5) } 
+		.s7 { fill: url(#g6) } 
+		.s8 { fill: url(#g7) } 
+		.s9 { opacity: .2;fill: #221f1f } 
+		.s10 { fill: url(#g8) } 
+		.s11 { opacity: .5;fill: #f8ac9b } 
+		.s12 { fill: url(#g9) } 
+		.s13 { opacity: .5;fill: #a7a9ac } 
+		.s14 { fill: url(#g10) } 
+		.s15 { fill: url(#g11) } 
+		.s16 { opacity: .3;fill: #ffffff } 
+		.s17 { fill: url(#g12) } 
+		.s18 { fill: url(#g13) } 
+		.s19 { fill: #ffffff } 
+		.s20 { fill: url(#g14) } 
+		.s21 { fill: url(#g15) } 
+		.s22 { fill: url(#g16) } 
+		.s23 { fill: url(#g17) } 
+		.s24 { fill: url(#g18) } 
+		.s25 { fill: url(#g19) } 
+		.s26 { fill: url(#g20) } 
+		.s27 { fill: url(#g21) } 
+		.s28 { fill: url(#g22) } 
+		.s29 { fill: url(#g23) } 
+		.s30 { fill: url(#g24) } 
+		.s31 { fill: url(#g25) } 
+		.s32 { fill: url(#g26) } 
+		.s33 { fill: url(#g27) } 
+		.s34 { fill: url(#g28) } 
+		.s35 { fill: url(#g29) } 
+		.s36 { fill: url(#g30) } 
+		.s37 { fill: url(#g31) } 
+		.s38 { fill: url(#g32) } 
+		.s39 { fill: url(#g33) } 
+		.s40 { fill: url(#g34) } 
+		.s41 { fill: url(#g35) } 
+		.s42 { fill: url(#g36) } 
+		.s43 { fill: url(#g37) } 
+		.s44 { fill: url(#g38) } 
+		.s45 { fill: url(#g39) } 
+		.s46 { fill: url(#g40) } 
+		.s47 { fill: url(#g41) } 
+		.s48 { fill: url(#g42) } 
+		.s49 { fill: url(#g43) } 
+		.s50 { fill: url(#g44) } 
+		.s51 { fill: url(#g45) } 
+		.s52 { fill: url(#g46) } 
+		.s53 { fill: url(#g47) } 
+		.s54 { fill: url(#g48) } 
+		.s55 { fill: url(#g49) } 
+		.s56 { fill: url(#g50) } 
+		.s57 { fill: #2c325e } 
+		.s58 { opacity: .7;fill: url(#g51) } 
+		.s59 { fill: #e6e6e6 } 
+		.s60 { fill: url(#g52) } 
+		.s61 { fill: url(#g53) } 
+		.s62 { fill: url(#g54) } 
+		.s63 { fill: url(#g55) } 
+		.s64 { fill: url(#g56) } 
+		.s65 { fill: url(#g57) } 
+		.s66 { fill: url(#g58) } 
+		.s67 { fill: url(#g59) } 
+		.s68 { fill: url(#g60) } 
+		.s69 { fill: url(#g61) } 
+		.s70 { fill: #336cf2 } 
+		.s71 { fill: url(#g62) } 
+		.s72 { fill: #fefefe } 
+		.s73 { fill: #fdfdfd } 
+		.s74 { fill: #fcfcfd } 
+		.s75 { fill: #fbfbfc } 
+		.s76 { fill: #fafafb } 
+		.s77 { fill: #f9f9fa } 
+		.s78 { fill: #f8f8fa } 
+		.s79 { fill: #f7f7f9 } 
+		.s80 { fill: #f6f6f8 } 
+		.s81 { fill: #f5f5f7 } 
+		.s82 { fill: #f4f4f7 } 
+		.s83 { fill: #f3f3f6 } 
+		.s84 { fill: #f2f2f5 } 
+		.s85 { fill: #f1f1f4 } 
+		.s86 { fill: #f0f0f4 } 
+		.s87 { fill: #efeff3 } 
+		.s88 { fill: #eeeef2 } 
+		.s89 { fill: #edeef1 } 
+		.s90 { fill: #ecedf1 } 
+		.s91 { fill: #ebecf0 } 
+		.s92 { fill: #eaebef } 
+		.s93 { fill: #e9eaee } 
+		.s94 { fill: #e8e9ed } 
+		.s95 { fill: #e7e8ed } 
+		.s96 { fill: #e6e7ec } 
+		.s97 { fill: #e5e6eb } 
+		.s98 { fill: #e4e5ea } 
+		.s99 { fill: #e3e4ea } 
+		.s100 { fill: #e2e3e9 } 
+		.s101 { fill: #e1e2e8 } 
+		.s102 { fill: #e0e1e7 } 
+		.s103 { fill: #dfe0e7 } 
+		.s104 { fill: #dedfe6 } 
+		.s105 { fill: #dddee5 } 
+		.s106 { fill: #dcdde4 } 
+		.s107 { fill: #dbdce4 } 
+		.s108 { fill: #dadbe3 } 
+		.s109 { fill: #d9dae2 } 
+		.s110 { fill: #d8d9e1 } 
+		.s111 { fill: #d7d8e0 } 
+		.s112 { fill: #d6d7e0 } 
+		.s113 { fill: #d5d6df } 
+		.s114 { fill: #d4d5de } 
+		.s115 { fill: #d3d4dd } 
+		.s116 { fill: #d2d3dd } 
+		.s117 { fill: #d1d2dc } 
+		.s118 { fill: #d0d1db } 
+		.s119 { fill: #cfd0da } 
+		.s120 { fill: #cecfda } 
+		.s121 { fill: #cdced9 } 
+		.s122 { fill: #cccdd8 } 
+		.s123 { fill: #cbccd7 } 
+		.s124 { fill: #caccd7 } 
+		.s125 { fill: #c9cbd6 } 
+		.s126 { fill: #c8cad5 } 
+		.s127 { fill: #c7c9d4 } 
+		.s128 { fill: #c6c8d4 } 
+		.s129 { fill: #c5c7d3 } 
+		.s130 { fill: #c4c6d2 } 
+		.s131 { fill: #c3c5d1 } 
+		.s132 { fill: #c2c4d0 } 
+		.s133 { fill: #c1c3d0 } 
+		.s134 { fill: #c0c2cf } 
+		.s135 { fill: #bfc1ce } 
+		.s136 { fill: #bec0cd } 
+		.s137 { fill: #bdbfcd } 
+		.s138 { fill: #bcbecc } 
+		.s139 { fill: #bbbdcb } 
+		.s140 { fill: #babcca } 
+		.s141 { fill: #b9bbca } 
+		.s142 { fill: #b8bac9 } 
+		.s143 { fill: #b7b9c8 } 
+		.s144 { fill: #b6b8c7 } 
+		.s145 { fill: #b5b7c7 } 
+		.s146 { fill: #b4b6c6 } 
+		.s147 { fill: #b3b5c5 } 
+		.s148 { fill: #b2b4c4 } 
+		.s149 { fill: #b1b3c3 } 
+		.s150 { fill: #b0b2c3 } 
+		.s151 { fill: #afb1c2 } 
+		.s152 { fill: #aeb0c1 } 
+		.s153 { fill: #adafc0 } 
+		.s154 { fill: #acaec0 } 
+		.s155 { fill: #abadbf } 
+		.s156 { fill: #aaacbe } 
+		.s157 { fill: #a9abbd } 
+		.s158 { fill: #a8aabd } 
+		.s159 { fill: #a7aabc } 
+		.s160 { fill: #a6a9bb } 
+		.s161 { fill: #a5a8ba } 
+		.s162 { fill: #a4a7ba } 
+		.s163 { fill: #a3a6b9 } 
+		.s164 { fill: #a2a5b8 } 
+		.s165 { fill: #a1a4b7 } 
+		.s166 { fill: #a0a3b7 } 
+		.s167 { fill: #9fa2b6 } 
+		.s168 { fill: #9ea1b5 } 
+		.s169 { fill: #9da0b4 } 
+		.s170 { fill: #9c9fb3 } 
+		.s171 { fill: #9b9eb3 } 
+		.s172 { fill: #9a9db2 } 
+		.s173 { fill: #999cb1 } 
+		.s174 { fill: #989bb0 } 
+		.s175 { fill: #979ab0 } 
+		.s176 { fill: #9699af } 
+		.s177 { fill: #9598ae } 
+		.s178 { fill: #9497ad } 
+		.s179 { fill: #9396ad } 
+		.s180 { fill: #9295ac } 
+		.s181 { fill: #9194ab } 
+		.s182 { fill: #9093aa } 
+		.s183 { fill: #8f92aa } 
+		.s184 { fill: #8e91a9 } 
+		.s185 { fill: #8d90a8 } 
+		.s186 { fill: #8c8fa7 } 
+		.s187 { fill: #8b8ea6 } 
+		.s188 { fill: #8a8da6 } 
+		.s189 { fill: #898ca5 } 
+		.s190 { fill: #888ba4 } 
+		.s191 { fill: #878aa3 } 
+		.s192 { fill: #8689a3 } 
+		.s193 { fill: #8588a2 } 
+		.s194 { fill: #8487a1 } 
+		.s195 { fill: #8387a0 } 
+		.s196 { fill: #8286a0 } 
+		.s197 { fill: #81859f } 
+		.s198 { fill: #80849e } 
+		.s199 { fill: #7f839d } 
+		.s200 { fill: #7e829d } 
+		.s201 { fill: #7d819c } 
+		.s202 { fill: #7c809b } 
+		.s203 { fill: #7b7f9a } 
+		.s204 { fill: #7a7e9a } 
+		.s205 { fill: #797d99 } 
+		.s206 { fill: #787c98 } 
+		.s207 { fill: #777b97 } 
+		.s208 { fill: #767a96 } 
+		.s209 { fill: #757996 } 
+		.s210 { fill: #747895 } 
+		.s211 { fill: #737794 } 
+		.s212 { fill: #727693 } 
+		.s213 { fill: #717593 } 
+		.s214 { fill: #707492 } 
+		.s215 { fill: #6f7391 } 
+		.s216 { fill: #6e7290 } 
+		.s217 { fill: #6d7190 } 
+		.s218 { fill: #6c708f } 
+		.s219 { fill: #6b6f8e } 
+		.s220 { fill: #6a6e8d } 
+		.s221 { fill: #696d8d } 
+		.s222 { fill: #686c8c } 
+		.s223 { fill: #676b8b } 
+		.s224 { fill: #666a8a } 
+		.s225 { fill: #656989 } 
+		.s226 { fill: #646889 } 
+		.s227 { fill: #636788 } 
+		.s228 { fill: #626687 } 
+		.s229 { fill: #616586 } 
+		.s230 { fill: #606586 } 
+		.s231 { fill: #5f6485 } 
+		.s232 { fill: #5e6384 } 
+		.s233 { fill: #5d6283 } 
+		.s234 { fill: #5c6183 } 
+		.s235 { fill: #5b6082 } 
+		.s236 { fill: #5a5f81 } 
+		.s237 { fill: #595e80 } 
+		.s238 { fill: #585d80 } 
+		.s239 { fill: #575c7f } 
+		.s240 { fill: #565b7e } 
+		.s241 { fill: #555a7d } 
+		.s242 { fill: #54597d } 
+		.s243 { fill: #53587c } 
+		.s244 { fill: #52577b } 
+		.s245 { fill: #51567a } 
+		.s246 { fill: #505579 } 
+		.s247 { fill: #4f5479 } 
+		.s248 { fill: #4e5378 } 
+		.s249 { fill: #4d5277 } 
+		.s250 { fill: #4c5176 } 
+		.s251 { fill: #4b5076 } 
+		.s252 { fill: #4a4f75 } 
+		.s253 { fill: #494e74 } 
+		.s254 { fill: #484d73 } 
+		.s255 { fill: #474c73 } 
+		.s256 { fill: #464b72 } 
+		.s257 { fill: #454a71 } 
+		.s258 { fill: #444970 } 
+		.s259 { fill: #434870 } 
+		.s260 { fill: #42476f } 
+		.s261 { fill: #41466e } 
+		.s262 { fill: #40456d } 
+		.s263 { fill: #3f446c } 
+		.s264 { fill: #3e436c } 
+		.s265 { fill: #3d436b } 
+		.s266 { fill: #3c426a } 
+		.s267 { fill: #3b4169 } 
+		.s268 { fill: #3a4069 } 
+		.s269 { fill: #393f68 } 
+		.s270 { fill: #383e67 } 
+		.s271 { fill: #373d66 } 
+		.s272 { fill: #363c66 } 
+		.s273 { fill: #353b65 } 
+		.s274 { fill: #343a64 } 
+		.s275 { fill: #333963 } 
+		.s276 { fill: #323863 } 
+		.s277 { fill: #313762 } 
+		.s278 { fill: #303661 } 
+		.s279 { fill: #2f3560 } 
+		.s280 { fill: #2e3460 } 
+		.s281 { fill: #2d335f } 
+		.s282 { fill: url(#g63) } 
+		.s283 { fill: #ffd5aa } 
+		.s284 { fill: url(#g64) } 
+		.s285 { fill: url(#g65) } 
+		.s286 { fill: url(#g66) } 
+		.s287 { fill: url(#g67) } 
+		.s288 { fill: url(#g68) } 
+		.s289 { fill: url(#g69) } 
+		.s290 { fill: url(#g70) } 
+		.s291 { fill: url(#g71) } 
+		.s292 { fill: url(#g72) } 
+		.s293 { fill: url(#g73) } 
+		.s294 { fill: url(#g74) } 
+		.s295 { fill: url(#g75) } 
+		.s296 { fill: url(#g76) } 
+		.s297 { fill: #ffa397 } 
+		.s298 { fill: url(#g77) } 
+		.s299 { fill: url(#g78) } 
+		.s300 { fill: url(#g79) } 
+		.s301 { fill: url(#g80) } 
+		.s302 { opacity: .1;fill: #221f1f } 
+		.s303 { fill: url(#g81) } 
+		.s304 { fill: none } 
+		.s305 { fill: url(#g82) } 
+	</style>
+	<g id="Group 946" style="opacity: .2">
+		<path id="Path 5472" class="s0" d="m172.5 125.8c19.9 16.7 56 63 43.7 91-16.8 38.1-90.6 31.8-120.8 26.8-28.2-4.7-58.8-18.5-68.6-47.7-28.7-85.4 99.5-108.6 145.7-70.1z"/>
+		<path id="Path 5473" class="s1" d="m39.5 330.4c-9.9-16.1-8.1-37.4 0-54.6 8.1-17.1 21.6-31 34.8-44.6 54-55.4 41.5-169.3 126.6-194.1 66.6-19.4 136.7 41.8 204.5 41.1 54.7-0.6 110.8-0.6 162.2 18 51.4 18.7 98.1 60.3 107.2 114.2 8.6 51.2-17.5 102.1-50.6 142-33.1 39.9-74 73.3-103.8 115.7-26.5 37.7-43.8 81.8-74.6 116.1-30.8 34.3-82.6 57-123.2 35.2-32.3-17.4-46.3-56-72.9-81.2-24.9-23.5-59-33.9-88.1-52-40.8-25.4-37.4-53.9-51.6-92.9-12-33.1-52.8-34.2-70.5-62.9z"/>
+		<path id="Path 5474" class="s2" d="m362.3 69.5q14.2-4.7 28.7-9c42.6-12.5 102.4-51.8 148.3-37.5 58.2 18.3 97.8 82.3 87.7 142-6.1 36.4-27.9 68.7-35.5 104.8-7.4 35.3-0.8 71.9 8.3 106.9 9.1 34.9 20.7 69.5 23.4 105.4 2.7 36-4.7 74.5-29.2 101.1-24.5 26.7-68.8 37-98.5 16.2-18.2-12.7-28.1-34-43.3-50-38.7-40.7-103.6-41.3-159-30.7-55.4 10.5-111.8 29.3-166.9 17.1-35.4-7.8-70.5-33.1-74.6-68.9-2.9-25.8 10.7-50.3 23.8-72.8 36.4-62.9 58.9-133.5 99.1-194.2 45.2-68.3 111.4-104.9 187.7-130.4z"/>
+	</g>
+	<g id="vector object">
+		<g id="Group 1509">
+			<path id="Path 6552" class="s3" d="m181.9 378.2l-1.4 0.9-7.9-12.4c-0.2-0.4-0.1-0.9 0.3-1.1q0.2-0.1 0.4-0.1c0.3-0.1 0.6 0.1 0.7 0.3l7.7 12z"/>
+			<path id="Path 6553" class="s4" d="m173.3 365.7q0-0.1 0-0.2c0.3-0.1 0.6 0.1 0.7 0.3l7.7 12-0.5 0.2z"/>
+			<path id="Path 6554" class="s5" d="m186.6 382c0.1 1.2-0.5 2.5-1.1 3.6-0.3 0.6-0.6 1.1-1.2 1.4-1.1 0.6-2.5-0.3-3.5-1.1q-1-0.8-2-1.6c-0.4-0.4-0.9-0.8-1.1-1.4-0.1-0.6 0.2-1.2 0.1-1.7 0-0.4-0.2-0.7-0.2-1 0-0.6 0.5-1 0.6-1.5 0.2-0.6-0.2-1.3-0.6-1.7-0.4-0.5-0.9-0.9-1.2-1.4-0.3-0.6-0.4-1.3 0.1-1.8 0.5-0.5 1.4-0.1 2.1 0.2q2.4 1.2 4.9 2.4c1 0.5 2.1 1.1 2.5 2.2 0.4 0.9 0.5 2.4 0.6 3.4z"/>
+			<path id="Path 6555" class="s6" d="m236.3 424.2c0 0 2.2 10.9-5.4 29.7-7.6 18.8 0.3 79.4 0.3 79.4h-6.6c0 0-21.7-49.2-18.6-70.6 3.1-21.4 23.7-43.8 30.3-38.5z"/>
+			<g id="Group 1506">
+				<path id="Path 6556" class="s5" d="m183.7 536.4l0.2-2.8h6.1l-0.2 2.8z"/>
+				<path id="Path 6557" class="s7" d="m190.6 536.4c0 0 0.3 8.6 0.1 8.8-0.2 0.2-22.9 0-23 0-0.2 0-1.6-0.8-0.7-2.4 0.8-1.5 11.7-3 12.6-3.7 0.9-0.7 1.9-2.7 1.9-2.7z"/>
+			</g>
+			<g id="Group 1507">
+				<path id="Path 6558" class="s5" d="m225.6 536l-0.5-2.7h5.5l0.4 2.7z"/>
+				<path id="Path 6559" class="s8" d="m231.8 536c0 0 0.3 8.7 0.1 8.9-0.2 0.2-22.9 0-23 0-0.2 0-1.6-0.9-0.7-2.4 0.8-1.5 11.7-3 12.6-3.7 0.9-0.7 1.9-2.8 1.9-2.8z"/>
+			</g>
+			<path id="Path 6560" class="s9" d="m225.4 449.1c0 0-6.1 14.9-9.9 19.2-3.9 4.3-7.6 14.8-7.6 14.8 0 0-0.7-3.1-1.5-6.8 1.4-3.1 2.8-5.6 4.2-7.1 4.4-4.6 10-12.2 14.8-20.1z"/>
+			<path id="Path 6561" class="s10" d="m186.7 471.8c1.5-16.6 15.8-46.7 15.8-46.7 0 0 17.7-6.6 33.8-0.9-0.5 5.6-5.2 15.4-10.9 24.9-4.8 7.9-10.4 15.5-14.8 20.1-1.4 1.5-2.8 4-4.2 7.1-8.2 18.2-14.9 57.4-14.9 57.4l-8.6-0.2c0 0 2.4-45.1 3.8-61.7z"/>
+			<path id="Path 6562" class="s3" d="m219.7 336.1c0.5 1.7 0.6 3.4 0.4 5.1 0 0.5-0.1 1.1-0.1 1.8 0.1 0.9 0.5 4.5-0.2 5-0.5 0.4-0.9 2.8-1.4 2.6-0.6-0.3-0.9-6.2-1.3-6.6-2.1-2.2-3.1 1.2-6.7-6-0.8-1.5-3.4-0.4-4.9 0.3-1.7 0.7-2.5 2.6-4.1 3.2-3 1.3-7.5 0.5-10-1.4-2-1.5-3.3-3.9-3.3-6.4 0-2.4 1.3-4.9 3.4-6.1 0.5-0.3 1-0.5 1.6-0.5 0.4 0 0.9 0.2 1.3 0.3 2 0.6 4.2 0.8 6.2 0.6 2.6-0.4 5.1-1.4 7.6-2 1.4-0.4 3-0.6 4.4 0 1.7 0.7 3.9 3.4 5.1 5.4 1.1 1.7 1.6 2.8 2 4.7z"/>
+			<g id="Group 1508">
+				<path id="Path 6563" class="s5" d="m210.5 356.6c0.8-0.3 1.6-0.7 2.3-1.2 0.8-0.6 1.5-1.3 2-1.8 0.7-0.7 1.5-2 1.8-2.9q0.2-0.6 0.3-1.2 0.1-0.8 0.1-1.5c0.1-1.4 0-2.8 0.2-4.5l2.4 7.3 5.7 4.5-8.7 6.7-2.3-2-3.8-3.3z"/>
+				<path id="Path 6564" class="s5" d="m202.3 346.9l2.5 5.8c0 0-2.7 1.1-3.7 1.3-1.1 0.1-1-1.4-1-3.2 0-1.8-1.6-4.6-1.6-4.6z"/>
+				<path id="Path 6565" class="s11" d="m210.5 356.6c0.8-0.3 1.6-0.7 2.3-1.2 0.8-0.6 1.5-1.3 2-1.8 0.7-0.7 1.5-2 1.8-2.9q0.2-0.6 0.3-1.2c0 0 0.4 1.2-1.4 5.3-0.4 1.1-2.8 3.5-2.9 3.7l-2.1-1.8z"/>
+				<path id="Path 6566" class="s5" d="m196.1 342.5c-1.8-1.9-0.6-2 0.8-2.9 1.3-0.8 2.8-2.4 3.8-3.2 1.2-0.8 2.3-1.4 3.6-2.1 2-1.1 3.9 0.5 4.8 1.7q0 0 0.1 0c0.9 1.2 2.6 4.1 3.5 4.8 1 0.8-0.4-4.3 1.2-5.6 0.4-0.3 0.7-0.5 1.2-0.6 1-0.2 2 0.3 2.6 1.2 0.7 1.1 0.8 2.6 0.5 3.9-0.3 1.3-0.8 2.5-1 3.8-0.2 1.7-0.1 3.1-0.2 4.5q0 0.7-0.1 1.5-0.1 0.6-0.3 1.2c-0.3 0.9-1.1 2.2-1.8 2.9-0.5 0.5-1.2 1.2-2 1.8-0.7 0.5-1.5 0.9-2.3 1.2-0.6 0.3-1.2 0.5-1.7 0.5q-1-0.1-1.9-0.4c-1.9-0.8-3.3-2.7-4.8-4.5-2.5-2.9-3.4-6.8-6-9.7z"/>
+				<path id="Path 6567" class="s11" d="m202.7 337.2c-2.9 1.2-7.6 3.8-5.6 2.3 1.4-0.8 2.6-2.3 3.6-3.1 1.2-0.8 2.3-1.4 3.6-2.1 2-1.1 3.9 0.5 4.8 1.7q0 0 0.1 0c-1.4-0.6-3.6 0.1-6.5 1.2z"/>
+			</g>
+			<path id="Path 6568" class="s12" d="m234.9 428.7c-4.5 6-32.8 10.8-34-9.8-0.1-2.4-0.1-6.3 0.1-9.1-9.1-4.2-15.9-13.6-19.9-21.5l5.5-5.4c4.5 6.4 9.3 11.7 14.4 14.5 3.4-17.7 9.7-36 12.8-38.9 4.4-4.2 9.8-6.4 9.8-6.4 0 0 11.1 9.9 14 25.8 2.9 15.9 2.1 44.4-2.7 50.8z"/>
+			<path id="Path 6569" class="s13" d="m200.5 409.8c0 0 9.9-0.5 14.9-3.9 4.9-3.5 10.6-24.5 11.2-26.8 1-3.2 1.4-14.5 1.4-14.5 0 0 2.2 9.6 2.1 15.5-0.1 21.4-9.3 26.4-12.7 27.7-6.8 2.6-16.9 2-16.9 2z"/>
+		</g>
+		<g id="Group 1513">
+			<g id="Group 1512">
+				<path id="Path 6570" class="s14" d="m574 476.4c-2.4 4.4-7.6 1.3-7.6 1.3 0 0 0.3-1.5 2.6-2.7 1.8-0.9 4.3-0.2 5.2 0.2l2.8-0.1h0.1q0.9 0 1.9 0.1c-8.2-2.9-4.3-12.5-4.3-12.5 0 0 2.5 0.1 5.3 3.7 2.2 2.9 1.3 7.9 1 9.1 3.3 0.4 6.5 1.3 9.5 2.4q-0.6-0.6-1.2-1.3c-3.1-3.8-1.8-10.9-1.8-10.9 11.2 1.5 9 12 8.3 14.4 3.7 1.8 7.1 3.9 10.2 6-0.8-1-1.7-2.6-2.2-4.8-1.5-5.3 3.3-11.9 3.3-11.9 11 6.9 3.1 16.9 1.5 18.7 2 1.5 3.8 3.1 5.4 4.5q2.7 2.5 4.9 4.8c-0.5-1.5-1-3.8-0.5-7.1 0.8-5.9 8.3-10.6 8.3-10.6 8 11.4-3.4 18.1-6.1 19.4 5.1 5.5 8 9.9 8 9.9l-1 0.7c0 0-1.9-2.9-5.3-6.9-4.3 13.5-18.8 6.6-18.8 6.6 0 0 0.3-3.6 5.7-7.2 3.5-2.3 8.7-1.7 11.5-1.2-2.1-2.3-4.6-4.9-7.5-7.5q-1.4-1.3-3-2.6c-3.8 12.6-17.3 6.3-17.3 6.3 0 0 0.3-3.4 5.2-6.6 3.1-2.1 7.7-1.6 10.3-1.1-3.1-2.5-6.7-4.9-10.6-7-2.3 11.9-15 7.1-15 7.1 0 0 0-3 4.2-6.2 2.8-2.2 7.1-2 9.4-1.7-4.2-2.1-8.8-3.8-13.7-4.7 0.2 10.8-11.6 8.7-11.6 8.7 0 0-0.4-2.5 2.6-5.9 2.4-2.7 7.2-2.9 8.6-2.9q-2.6-0.5-5.2-0.6z"/>
+				<g id="Group 1511">
+					<g id="Group 1510">
+						<path id="Path 6571" class="s15" d="m638.7 540.9c0 0-26.5-54.2-12.6-97.4 14.7-45.7-10.7-75-10.7-75 0 0 42.7 14.9 60.3 66.1 17.7 51.2-6.7 106.3-6.7 106.3z"/>
+						<path id="Path 6572" class="s16" d="m654.2 540.9c0 0 10-104.4-14-141.5 26.4 29.4 20.2 141.5 20.2 141.5z"/>
+					</g>
+					<path id="Path 6573" class="s17" d="m613.7 524.4c-1.2-15.4-9.1-24-9.1-24 0 0 14.4-1.2 25.8 11.5 9.4 10.5 13.1 24.4 14.1 29h-26.1c-2.2-4.6-4.3-10.4-4.7-16.5z"/>
+					<path id="Path 6574" class="s18" d="m727 453.8c0 0-13.9 17.8-14.1 47.7-0.1 16.8-11.5 30.8-20.9 39.4h-36.9c0.4-3.8 4.7-36.1 23.7-60.9 20.2-26.4 48.2-26.2 48.2-26.2z"/>
+					<path id="Path 6575" class="s16" d="m616 508.4c8.8 4.1 18.3 24 22 32.5h-1.9c-3.5-8.6-11.4-26.7-20.1-32.5z"/>
+					<path id="Path 6576" class="s16" d="m706.2 470.9c-17.4 13.7-31.1 55.1-35.6 70h-3.8c4.7-14.1 21.5-60 39.4-70z"/>
+				</g>
+			</g>
+			<path id="Rectangle 185" class="s3" d="m603.2 540.9h110.2v4.4h-110.2z"/>
+		</g>
+		<g id="Group 1514">
+			<path id="Path 6577" class="s19" d="m517.9 92.6l8.1 4.4-8.1 4.4-4.4 8.1-4.4-8.1-8.1-4.4 8.1-4.4 4.4-8.1z"/>
+			<path id="Path 6578" class="s19" d="m505 120.2l5.1 2.8-5.1 2.8-2.8 5-2.8-5-5.1-2.8 5.1-2.8 2.8-5.1z"/>
+			<path id="Path 6579" class="s19" d="m534.4 113.7l7.8 4.2-7.8 4.3-4.2 7.7-4.3-7.7-7.7-4.3 7.7-4.2 4.3-7.8z"/>
+		</g>
+		<g id="Group 1515">
+			<path id="Path 6580" class="s19" d="m288.4 38.3l8.1 4.4-8.1 4.5-4.4 8.1-4.5-8.1-8-4.5 8-4.4 4.5-8.1z"/>
+			<path id="Path 6581" class="s19" d="m275.5 65.9l5 2.8-5 2.8-2.8 5.1-2.8-5.1-5.1-2.8 5.1-2.8 2.8-5.1z"/>
+			<path id="Path 6582" class="s19" d="m304.9 59.4l7.8 4.3-7.8 4.2-4.2 7.8-4.3-7.8-7.7-4.2 7.7-4.3 4.3-7.7z"/>
+		</g>
+		<g id="Group 1517">
+			<path id="Path 6583" class="s20" d="m522.9 41.5l-6.8 4.5-4 2.7-45.1-16.6 50.5 24.6-13.1 3.5-5.8 18.2-51.6-54.4 68.7 15.9z"/>
+			<g id="Group 1516">
+				<path id="Path 6584" class="s21" d="m537.5 66.5l-1.3 2.3q-1.9-1.1-3.8-2.1l1.2-2.3q2 1 3.9 2.1z"/>
+				<path id="Path 6585" class="s22" d="m526.5 60.7l4 2-1.2 2.4-3.9-2z"/>
+				<path id="Path 6586" class="s23" d="m519.3 57.3l4.1 1.9-1.2 2.4-3.9-1.9z"/>
+				<path id="Path 6587" class="s24" d="m552.7 78.9l1.5-2.1 3.6 2.5-1.6 2.2z"/>
+				<path id="Path 6588" class="s25" d="m547.5 72.4c1.2 0.8 2.5 1.6 3.7 2.4l-1.4 2.2c-1.3-0.8-2.5-1.6-3.7-2.4z"/>
+				<path id="Path 6589" class="s26" d="m544.5 70.5l-1.4 2.3q-1.9-1.1-3.8-2.2l1.3-2.3q2 1.1 3.9 2.2z"/>
+				<path id="Path 6590" class="s27" d="m572.8 92.1c1 1.1 2.1 2.1 3 3.3l-2 1.7c-0.9-1.1-1.9-2.1-2.9-3.2z"/>
+				<path id="Path 6591" class="s28" d="m570.2 89.6l-1.8 1.9c-1-1-2.2-2-3.2-2.9l1.7-2c1.1 1 2.2 1.9 3.3 3z"/>
+				<path id="Path 6592" class="s29" d="m559.1 83.6l1.6-2.1c1.2 0.9 2.3 1.9 3.5 2.8l-1.7 2c-1.1-0.9-2.2-1.8-3.4-2.7z"/>
+				<path id="Path 6593" class="s30" d="m583.5 113.3l2.5-0.7c0.4 1.5 0.7 3 1 4.6l-2.6 0.3q-0.4-2.1-0.9-4.2z"/>
+				<path id="Path 6594" class="s31" d="m580.4 106.3l2.3-1.3c0.8 1.3 1.4 2.7 2.1 4.1l-2.5 1c-0.6-1.3-1.2-2.6-1.9-3.8z"/>
+				<path id="Path 6595" class="s32" d="m576.1 99.8l2.1-1.6 2.7 3.7-2.2 1.4z"/>
+				<path id="Path 6596" class="s33" d="m581.9 136.7c-0.9 1.2-1.9 2.4-2.8 3.6l-2-1.7c0.8-1.2 1.8-2.3 2.6-3.4z"/>
+				<path id="Path 6597" class="s34" d="m583.2 128.4l2.5 0.8-0.9 2.2c-0.3 0.7-0.6 1.5-1 2.1l-2.3-1.2c0.4-0.6 0.6-1.3 0.9-2z"/>
+				<path id="Path 6598" class="s35" d="m584.4 123l0.2-2.1 2.6 0.1-0.2 2.3c-0.1 0.8-0.1 1.6-0.3 2.3l-2.6-0.5c0.2-0.6 0.2-1.4 0.3-2.1z"/>
+				<path id="Path 6599" class="s36" d="m563.6 152.7c-1.3 0.8-2.6 1.6-4 2.2l-1.2-2.3c1.3-0.6 2.6-1.4 3.8-2.2z"/>
+				<path id="Path 6600" class="s37" d="m570.3 148.3l-3.7 2.6-1.4-2.3 3.6-2.4z"/>
+				<path id="Path 6601" class="s38" d="m574.6 141.1l1.9 1.9-1.6 1.6-1.8 1.4-1.7-2 1.7-1.4z"/>
+				<path id="Path 6602" class="s39" d="m541.5 162.5l-4.2 1.4-0.8-2.5 4.2-1.4z"/>
+				<path id="Path 6603" class="s40" d="m549.1 159.8l-4.2 1.6-0.9-2.5 4.1-1.6z"/>
+				<path id="Path 6604" class="s41" d="m556.4 156.6c-1.3 0.6-2.7 1.2-4.1 1.8l-1-2.4c1.3-0.6 2.7-1.2 4-1.8z"/>
+				<path id="Path 6605" class="s42" d="m517.8 166.2l0.6 2.6-4.4 0.9-0.5-2.6z"/>
+				<path id="Path 6606" class="s43" d="m526.2 167c-1.5 0.4-2.9 0.7-4.4 1l-0.6-2.5c1.5-0.4 2.9-0.7 4.3-1.1z"/>
+				<path id="Path 6607" class="s44" d="m533.9 164.9c-1.5 0.5-2.9 0.9-4.3 1.2l-0.7-2.5c1.4-0.4 2.8-0.8 4.2-1.2z"/>
+				<path id="Path 6608" class="s45" d="m494.4 170.2l0.4 2.6-4.4 0.6-0.3-2.6z"/>
+				<path id="Path 6609" class="s46" d="m502.3 169.1l0.4 2.6-4.4 0.7-0.4-2.7z"/>
+				<path id="Path 6610" class="s47" d="m510 167.8l0.5 2.6-4.4 0.7-0.4-2.6z"/>
+				<path id="Path 6611" class="s48" d="m470.8 172.7l0.2 2.6-4.4 0.4-0.2-2.7z"/>
+				<path id="Path 6612" class="s49" d="m478.7 172l0.3 2.6-4.5 0.4-0.2-2.6z"/>
+				<path id="Path 6613" class="s50" d="m486.5 171.2l0.3 2.6-4.4 0.5-0.2-2.6z"/>
+				<path id="Path 6614" class="s51" d="m447.1 174l0.1 2.6-4.5 0.1v-2.6z"/>
+				<path id="Path 6615" class="s52" d="m455 173.7l0.1 2.6-4.4 0.2-0.1-2.7z"/>
+				<path id="Path 6616" class="s53" d="m462.9 173.2l0.1 2.7-4.4 0.2-0.1-2.6z"/>
+				<path id="Path 6617" class="s54" d="m418.9 174.1l4.4 0.1v2.6l-4.4-0.1z"/>
+				<path id="Path 6618" class="s55" d="m431.2 174.2v2.7h-4.4v-2.7z"/>
+				<path id="Path 6619" class="s56" d="m439.1 174.2l0.1 2.6-4.5 0.1v-2.7z"/>
+			</g>
+		</g>
+		<g id="Group 1519">
+			<rect id="Rectangle 186" class="s57" x="239.2" y="90.4" width="249.8" height="454.9" rx="13"></rect>
+			<path id="Path 6620" class="s58" d="m480.2 110.9v401.2c0 5.9-4.7 10.6-10.5 10.6h-211.2c-5.8 0-10.6-4.7-10.6-10.6v-401.2c0-5.5 4.5-10 10-10h212.4c5.5 0 9.9 4.5 9.9 10z"/>
+			<circle id="Path 6621" class="s19" cx="364.1" cy="95.5" r="3.8"/>
+			<g id="Group 1518" style="opacity: .5">
+				<path id="Path 6622" class="s59" d="m385.7 100.9l94.5 111.9v54.5l-140.6-166.4z"/>
+				<path id="Path 6623" class="s59" d="m435.9 100.9l44.3 52.5v19.6l-60.9-72.1z"/>
+				<path id="Path 6624" class="s59" d="m335.3 100.9l144.9 171.5v7.2l-150.9-178.7z"/>
+			</g>
+		</g>
+		<path id="Path 6625" fill-rule="evenodd" class="s60" d="m654.5 307.8v2c0 1.3-1.1 2.4-2.4 2.4h-3.6c-1.1 0-2 0.7-2.3 1.7q-0.4 1.1-0.9 2.1c-0.5 1-0.3 2.1 0.4 2.8l2.7 2.8c0.9 0.8 0.9 2.2 0 3.1l-1.5 1.5c-1 1-2.5 1-3.4 0l-2.6-2.6c-0.8-0.7-1.9-0.8-2.8-0.4q-1.1 0.6-2.2 0.9c-1 0.4-1.7 1.3-1.7 2.3v3.7c0 1.3-1.1 2.4-2.4 2.4h-2c-1.3 0-2.4-1.1-2.4-2.4v-3.7c0-1-0.7-1.9-1.7-2.3q-1.1-0.3-2.2-0.9c-0.9-0.4-2-0.3-2.8 0.4l-2.6 2.6c-0.9 1-2.4 1-3.4 0l-1.5-1.5c-0.9-0.9-0.9-2.3 0-3.1l2.7-2.8c0.8-0.7 0.9-1.8 0.4-2.8q-0.5-1-0.9-2.1c-0.3-1-1.2-1.7-2.3-1.7h-3.6c-1.3 0-2.4-1.1-2.4-2.4v-2c0-1.4 1.1-2.5 2.4-2.5h3.6c1.1 0 2-0.6 2.3-1.6q0.4-1.2 0.9-2.2c0.5-0.9 0.4-2.1-0.4-2.8l-2.7-2.8c-0.9-0.8-0.9-2.2 0-3l1.5-1.6c1-1 2.5-1 3.4 0l2.6 2.6c0.8 0.7 1.9 0.9 2.8 0.4q1.1-0.5 2.2-0.9c1-0.3 1.7-1.3 1.7-2.3v-3.7c0-1.3 1.1-2.4 2.4-2.4h2c1.3 0 2.4 1.1 2.4 2.4v3.7c0 1 0.7 2 1.7 2.3q1.1 0.4 2.2 0.9c0.9 0.5 2 0.3 2.8-0.4l2.6-2.6c0.9-1 2.4-1 3.4 0l1.5 1.6c0.9 0.8 0.9 2.2 0 3l-2.7 2.8c-0.7 0.7-0.9 1.9-0.4 2.8q0.5 1 0.9 2.2c0.3 1 1.2 1.6 2.3 1.6h3.6c1.3 0 2.4 1.1 2.4 2.5zm-24.4-7.4c-4 0.3-7.3 3.6-7.7 7.7-0.4 5.2 3.9 9.4 9.1 9 4.1-0.3 7.4-3.6 7.7-7.7 0.4-5.1-3.9-9.4-9.1-9z"/>
+		<g id="Group 1520">
+			<path id="Path 6626" class="s61" d="m394.1 34l-28.5 19.2-28.4-19.2 28.4-18z"/>
+			<path id="Rectangle 187" class="s62" d="m346.8 22.2h36.3v35.5h-36.3z"/>
+			<path id="Path 6627" class="s63" d="m416.4 57.6z"/>
+			<path id="Path 6628" class="s64" d="m320.4 57.6z"/>
+			<path id="Path 6629" class="s65" d="m396.7 35.8v35.7c0 2.4-2 4.4-4.4 4.4h-53.3c-2.5 0-4.4-2-4.4-4.4v-35.7l31 20.9z"/>
+		</g>
+		<g id="Group 1521">
+			<path id="Path 6630" class="s66" d="m117.7 499c-1.8 2.7-4.4 4.7-7.2 6.4-4.2 2.7-8.9 4.8-13.8 5.9-2.2 0.4-4.4 0.8-6.6 0.2-1.5-0.3-2.6-0.1-4.1-0.2-1.5 0-2.6-0.2-4.1 0.2-2.2 0.5-4.4 0.1-6.6-0.4-4.9-1-9.5-3.2-13.8-5.9-2.7-1.8-5.3-3.8-7.1-6.5-4.4-6.8-2.2-16.3 2.9-22.6 1.4-1.7 3-3.3 3.9-5.3 1.2-2.8 0.8-6-0.1-9-0.8-2.9-2.2-5.7-2.9-8.6-1.9-7.3 0.2-15.5 5.4-21 1.1-1.2 2.4-2.3 3.3-3.7 2.2-3.2 2.3-7.4 1.7-11.2-0.5-3.8-1.5-7.7-1.3-11.5 0.4-4.7 2.7-9.1 6.3-12.1 3.6-2.8 8.4-3.8 12.9-3.8q0.1 0 0.2 0 0.1 0 0.1 0c4.6 0 9.4 1.1 12.9 4 3.6 2.9 5.9 7.4 6.2 12.1 0.2 3.9-0.9 7.7-1.5 11.5-0.5 3.8-0.5 8 1.6 11.2 1 1.4 2.2 2.5 3.3 3.8 5.1 5.5 7.1 13.7 5.2 21-0.8 2.9-2.2 5.7-3.1 8.6-0.9 2.9-1.3 6.2-0.1 9 0.9 2 2.4 3.6 3.8 5.3 5 6.4 7.1 15.9 2.6 22.6z"/>
+			<path id="Path 6631" class="s16" d="m88.6 511.3h0.1v7.3h-3.8v-7.3h-0.1l0.1-6.7c-2.2-3-21.4-29.2-21.4-29.2l21.5 23.6 0.7-45.2c-3-4.1-15.7-21.4-15.7-21.4l15.8 17.3 0.4-27.6c-2.1-2.9-10.9-15-10.9-15l11 12.1 0.4-24.4 0.3 19 11.5-12.3c0 0-10.1 13.4-11.5 15.3l0.5 27.1 15.9-17.1c0 0-12.7 16.9-15.8 21.1l0.7 44.7 21.2-22.7c0 0-17 22.6-21.1 28z"/>
+			<path id="Path 6632" class="s3" d="m69.9 518.7h33.7l-6.3 26.6h-21z"/>
+			<path id="Rectangle 188" class="s67" d="m69.9 516.7h33.7v2h-33.7z"/>
+		</g>
+		<g id="Group 1522">
+			<ellipse id="Ellipse 333" class="s68" cx="365" cy="178.9" rx="29.4" ry="29.5"/>
+			<circle id="Path 6633" class="s57" cx="353.2" cy="168.9" r="4.1"/>
+			<circle id="Path 6634" class="s57" cx="376.7" cy="168.9" r="4.1"/>
+			<path id="Path 6635" class="s57" d="m383.4 184.8l-0.4 1.4c-1.2 3.6-3.3 6.6-6.1 8.8-1.9-1.9-6.4-3.2-11.5-3.2-5 0-9.3 1.2-11.4 3-2.6-2.2-4.7-5.1-6-8.5l-0.6-1.6z"/>
+			<path id="Path 6636" class="s69" d="m365.4 191.8c5.1 0 9.6 1.3 11.5 3.2-3 2.4-6.8 3.8-11 3.9q-0.2 0-0.3 0c-4.3 0-8.4-1.5-11.6-4.1 2.1-1.8 6.4-3 11.4-3z"/>
+		</g>
+		<g id="Group 1524">
+			<g id="Group 1523">
+				<path id="Path 6637" fill-rule="evenodd" class="s70" d="m209.7 175.7h-36c-6.6 0-12-5.4-12-12v-36c0-6.6 5.4-12 12-12h36c6.6 0 12 5.4 12 12v36c0 6.6-5.4 12-12 12zm-36-56.2c-4.5 0-8.2 3.7-8.2 8.2v36c0 4.5 3.7 8.2 8.2 8.2h36c4.5 0 8.2-3.7 8.2-8.2v-36c0-4.5-3.7-8.2-8.2-8.2z"/>
+			</g>
+			<path id="Path 6638" class="s70" d="m192.5 164.9v0.1q-0.1-0.1-0.1-0.1-0.1 0-0.1 0.1v-0.1c-15.8-2.5-29-27.4-16.7-35.7 8.3-5.7 14.4 0.6 16.8 4 2.4-3.4 8.5-9.7 16.8-4 12.3 8.3-1 33.2-16.7 35.7z"/>
+		</g>
+		<g id="Group 1528">
+			<g id="Group 1526">
+				<g id="Group 1525">
+					<path id="Path 6639" fill-rule="evenodd" class="s70" d="m152.7 275.1h-36c-6.7 0-12.1-5.4-12.1-12v-36c0-6.6 5.4-12 12.1-12h36c6.6 0 12 5.4 12 12v36c0 6.6-5.4 12-12 12zm-36-56.2c-4.5 0-8.2 3.7-8.2 8.2v36c0 4.5 3.7 8.2 8.2 8.2h36c4.5 0 8.2-3.7 8.2-8.2v-36c0-4.5-3.7-8.2-8.2-8.2z"/>
+				</g>
+			</g>
+			<g id="Group 1527">
+				<path id="Path 6640" class="s70" d="m155.4 243.5c-0.9 3.3-2.1 3.6-2.1 4.9 0 1.4-0.1 8.7-2.1 10.7-2 2.1-13.7 2-16.6 0.8q-1-0.5-1.9-1c-2.3-1.3-4.9-2-7.5-1.9h-0.2v-16.3c0 0 3.4-0.7 5.3-2.8 1.5-1.7 5.4-7.1 5.7-8.6 0.3-1.4 1.9-4.4 4.1-3.1 2.2 1.3 2.2 3.8 1.5 5.7-0.8 1.9-2.9 4.8-3.2 5.9-0.6 1.7 1.5 3.1 1.5 3.2 1.5 0 3.6 0.1 6.2-0.1 5.4-0.4 10.2-0.6 9.3 2.6z"/>
+				<path id="Rectangle 189" class="s70" d="m115.8 240.7h6.2v16.1h-6.2z"/>
+			</g>
+		</g>
+		<g id="Group 1531">
+			<g id="Group 1530">
+				<g id="Group 1529">
+					<path id="Path 6641" fill-rule="evenodd" class="s70" d="m547.8 276.8h-36c-6.6 0-12-5.5-12-12.1v-36c0-6.6 5.4-12 12-12h36c6.6 0 12 5.4 12 12v36c0 6.6-5.4 12.1-12 12.1zm-36-56.3c-4.5 0-8.2 3.7-8.2 8.2v36c0 4.5 3.7 8.2 8.2 8.2h36c4.5 0 8.2-3.7 8.2-8.2v-36c0-4.5-3.7-8.2-8.2-8.2z"/>
+				</g>
+			</g>
+			<path id="Path 6642" class="s70" d="m549.9 239.7l-9.3 9.1 2.2 12.8-11.5-6.1-11.5 6.1 2.2-12.8-9.3-9.1 12.9-1.8 5.7-11.7 5.8 11.7z"/>
+		</g>
+		<path id="Path 6643" fill-rule="evenodd" class="s71" d="m236.6 286.4c0 10-13.3 18-29.8 18q-4 0-7.6-0.6c-2.6 0.8-10.8 3.3-13.9 7-2.9 3.4-4.2-8.2-3.2-14.3-3.2-2.9-5.1-6.3-5.1-10.1 0-9.9 13.4-18 29.8-18 16.5 0 29.8 8.1 29.8 18zm-44.9 0.2c0-1.1-0.9-2-2-2-1.1 0-2 0.9-2 2 0 1.1 0.9 2 2 2 1.1 0 2-0.9 2-2zm11.4 0c0-1.1-0.9-2-2-2-1.1 0-2 0.9-2 2 0 1.1 0.9 2 2 2 1.1 0 2-0.9 2-2zm11.4 0c0-1.1-0.9-2-2-2-1.1 0-2 0.9-2 2 0 1.1 0.9 2 2 2 1.1 0 2-0.9 2-2zm11.5 0c0-1.1-0.9-2-2-2-1.1 0-2 0.9-2 2 0 1.1 0.9 2 2 2 1.1 0 2-0.9 2-2z"/>
+		<g id="Group 1551">
+			<g id="Group 1540">
+				<g id="Group 1532" style="opacity: .3">
+					<rect id="Rectangle 190" class="s19" x="278.7" y="226.4" width="189" height="57.9" rx="14.2"></rect>
+					<rect id="Rectangle 191" class="s72" x="278.6" y="226.3" width="189" height="57.9" rx="14.2"></rect>
+					<rect id="Rectangle 192" class="s73" x="278.6" y="226.3" width="189" height="57.9" rx="14.2"></rect>
+					<rect id="Rectangle 193" class="s74" x="278.6" y="226.3" width="189" height="57.9" rx="14.2"></rect>
+					<rect id="Rectangle 194" class="s75" x="278.6" y="226.3" width="189" height="57.9" rx="14.1"></rect>
+					<rect id="Rectangle 195" class="s76" x="278.6" y="226.3" width="189" height="57.9" rx="14.1"></rect>
+					<rect id="Rectangle 196" class="s77" x="278.5" y="226.3" width="189" height="57.9" rx="14.1"></rect>
+					<rect id="Rectangle 197" class="s78" x="278.5" y="226.2" width="189" height="57.9" rx="14.1"></rect>
+					<rect id="Rectangle 198" class="s79" x="278.5" y="226.2" width="189" height="57.9" rx="14.1"></rect>
+					<rect id="Rectangle 199" class="s80" x="278.5" y="226.2" width="189" height="57.9" rx="14"></rect>
+					<rect id="Rectangle 200" class="s81" x="278.5" y="226.2" width="189" height="57.9" rx="14"></rect>
+					<rect id="Rectangle 201" class="s82" x="278.4" y="226.2" width="189" height="57.9" rx="14"></rect>
+					<rect id="Rectangle 202" class="s83" x="278.4" y="226.1" width="189" height="57.9" rx="14"></rect>
+					<rect id="Rectangle 203" class="s84" x="278.4" y="226.1" width="189" height="57.9" rx="13.9"></rect>
+					<rect id="Rectangle 204" class="s85" x="278.4" y="226.1" width="189" height="57.9" rx="13.9"></rect>
+					<rect id="Rectangle 205" class="s86" x="278.4" y="226.1" width="189" height="57.9" rx="13.9"></rect>
+					<rect id="Rectangle 206" class="s87" x="278.4" y="226.1" width="189" height="57.9" rx="13.9"></rect>
+					<rect id="Rectangle 207" class="s88" x="278.3" y="226" width="189" height="57.9" rx="13.9"></rect>
+					<rect id="Rectangle 208" class="s89" x="278.3" y="226" width="189" height="57.9" rx="13.8"></rect>
+					<rect id="Rectangle 209" class="s90" x="278.3" y="226" width="189" height="57.9" rx="13.8"></rect>
+					<rect id="Rectangle 210" class="s91" x="278.3" y="226" width="189" height="57.9" rx="13.8"></rect>
+					<rect id="Rectangle 211" class="s92" x="278.3" y="226" width="189" height="57.9" rx="13.8"></rect>
+					<rect id="Rectangle 212" class="s93" x="278.2" y="225.9" width="189" height="57.9" rx="13.7"></rect>
+					<rect id="Rectangle 213" class="s94" x="278.2" y="225.9" width="189" height="57.9" rx="13.7"></rect>
+					<rect id="Rectangle 214" class="s95" x="278.2" y="225.9" width="189" height="57.9" rx="13.7"></rect>
+					<rect id="Rectangle 215" class="s96" x="278.2" y="225.9" width="189" height="57.9" rx="13.7"></rect>
+					<rect id="Rectangle 216" class="s97" x="278.2" y="225.9" width="189" height="57.9" rx="13.6"></rect>
+					<rect id="Rectangle 217" class="s98" x="278.2" y="225.8" width="189" height="57.9" rx="13.6"></rect>
+					<rect id="Rectangle 218" class="s99" x="278.1" y="225.8" width="189" height="57.9" rx="13.6"></rect>
+					<rect id="Rectangle 219" class="s100" x="278.1" y="225.8" width="189" height="57.9" rx="13.6"></rect>
+					<rect id="Rectangle 220" class="s101" x="278.1" y="225.8" width="189" height="57.9" rx="13.6"></rect>
+					<rect id="Rectangle 221" class="s102" x="278.1" y="225.8" width="189" height="57.9" rx="13.5"></rect>
+					<rect id="Rectangle 222" class="s103" x="278.1" y="225.7" width="189" height="57.9" rx="13.5"></rect>
+					<rect id="Rectangle 223" class="s104" x="278" y="225.7" width="189" height="57.9" rx="13.5"></rect>
+					<rect id="Rectangle 224" class="s105" x="278" y="225.7" width="189" height="57.9" rx="13.5"></rect>
+					<rect id="Rectangle 225" class="s106" x="278" y="225.7" width="189" height="57.9" rx="13.4"></rect>
+					<rect id="Rectangle 226" class="s107" x="278" y="225.7" width="189" height="57.9" rx="13.4"></rect>
+					<rect id="Rectangle 227" class="s108" x="278" y="225.6" width="189" height="57.9" rx="13.4"></rect>
+					<rect id="Rectangle 228" class="s109" x="277.9" y="225.6" width="189" height="57.9" rx="13.4"></rect>
+					<rect id="Rectangle 229" class="s110" x="277.9" y="225.6" width="189" height="57.9" rx="13.3"></rect>
+					<rect id="Rectangle 230" class="s111" x="277.9" y="225.6" width="189" height="57.9" rx="13.3"></rect>
+					<rect id="Rectangle 231" class="s112" x="277.9" y="225.6" width="189" height="57.9" rx="13.3"></rect>
+					<rect id="Rectangle 232" class="s113" x="277.9" y="225.5" width="189" height="57.9" rx="13.3"></rect>
+					<rect id="Rectangle 233" class="s114" x="277.9" y="225.5" width="189" height="57.9" rx="13.3"></rect>
+					<rect id="Rectangle 234" class="s115" x="277.8" y="225.5" width="189" height="57.9" rx="13.2"></rect>
+					<rect id="Rectangle 235" class="s116" x="277.8" y="225.5" width="189" height="57.9" rx="13.2"></rect>
+					<rect id="Rectangle 236" class="s117" x="277.8" y="225.5" width="189" height="57.9" rx="13.2"></rect>
+					<rect id="Rectangle 237" class="s118" x="277.8" y="225.4" width="189" height="57.9" rx="13.2"></rect>
+					<rect id="Rectangle 238" class="s119" x="277.8" y="225.4" width="189" height="57.9" rx="13.1"></rect>
+					<rect id="Rectangle 239" class="s120" x="277.7" y="225.4" width="189" height="57.9" rx="13.1"></rect>
+					<rect id="Rectangle 240" class="s121" x="277.7" y="225.4" width="189" height="57.9" rx="13.1"></rect>
+					<rect id="Rectangle 241" class="s122" x="277.7" y="225.4" width="189" height="57.9" rx="13.1"></rect>
+					<rect id="Rectangle 242" class="s123" x="277.7" y="225.3" width="189" height="57.9" rx="13"></rect>
+					<rect id="Rectangle 243" class="s124" x="277.7" y="225.3" width="189" height="57.9" rx="13"></rect>
+					<rect id="Rectangle 244" class="s125" x="277.6" y="225.3" width="189" height="57.9" rx="13"></rect>
+					<rect id="Rectangle 245" class="s126" x="277.6" y="225.3" width="189" height="57.9" rx="13"></rect>
+					<rect id="Rectangle 246" class="s127" x="277.6" y="225.3" width="189" height="57.9" rx="13"></rect>
+					<rect id="Rectangle 247" class="s128" x="277.6" y="225.2" width="189" height="57.9" rx="12.9"></rect>
+					<rect id="Rectangle 248" class="s129" x="277.6" y="225.2" width="189" height="57.9" rx="12.9"></rect>
+					<rect id="Rectangle 249" class="s130" x="277.6" y="225.2" width="189" height="57.9" rx="12.9"></rect>
+					<rect id="Rectangle 250" class="s131" x="277.5" y="225.2" width="189" height="57.9" rx="12.9"></rect>
+					<rect id="Rectangle 251" class="s132" x="277.5" y="225.2" width="189" height="57.9" rx="12.8"></rect>
+					<rect id="Rectangle 252" class="s133" x="277.5" y="225.1" width="189" height="57.9" rx="12.8"></rect>
+					<rect id="Rectangle 253" class="s134" x="277.5" y="225.1" width="189" height="57.9" rx="12.8"></rect>
+					<rect id="Rectangle 254" class="s135" x="277.5" y="225.1" width="189" height="57.9" rx="12.8"></rect>
+					<rect id="Rectangle 255" class="s136" x="277.4" y="225.1" width="189" height="57.9" rx="12.7"></rect>
+					<rect id="Rectangle 256" class="s137" x="277.4" y="225.1" width="189" height="57.9" rx="12.7"></rect>
+					<rect id="Rectangle 257" class="s138" x="277.4" y="225" width="189" height="57.9" rx="12.7"></rect>
+					<rect id="Rectangle 258" class="s139" x="277.4" y="225" width="189" height="57.9" rx="12.7"></rect>
+					<rect id="Rectangle 259" class="s140" x="277.4" y="225" width="189" height="57.9" rx="12.7"></rect>
+					<rect id="Rectangle 260" class="s141" x="277.4" y="225" width="189" height="57.9" rx="12.6"></rect>
+					<rect id="Rectangle 261" class="s142" x="277.3" y="225" width="189" height="57.9" rx="12.6"></rect>
+					<rect id="Rectangle 262" class="s143" x="277.3" y="224.9" width="189" height="57.9" rx="12.6"></rect>
+					<rect id="Rectangle 263" class="s144" x="277.3" y="224.9" width="189" height="57.9" rx="12.6"></rect>
+					<rect id="Rectangle 264" class="s145" x="277.3" y="224.9" width="189" height="57.9" rx="12.5"></rect>
+					<rect id="Rectangle 265" class="s146" x="277.3" y="224.9" width="189" height="57.9" rx="12.5"></rect>
+					<rect id="Rectangle 266" class="s147" x="277.2" y="224.9" width="189" height="57.9" rx="12.5"></rect>
+					<rect id="Rectangle 267" class="s148" x="277.2" y="224.8" width="189" height="57.9" rx="12.5"></rect>
+					<rect id="Rectangle 268" class="s149" x="277.2" y="224.8" width="189" height="57.9" rx="12.4"></rect>
+					<rect id="Rectangle 269" class="s150" x="277.2" y="224.8" width="189" height="57.9" rx="12.4"></rect>
+					<rect id="Rectangle 270" class="s151" x="277.2" y="224.8" width="189" height="57.9" rx="12.4"></rect>
+					<rect id="Rectangle 271" class="s152" x="277.1" y="224.8" width="189" height="57.9" rx="12.4"></rect>
+					<rect id="Rectangle 272" class="s153" x="277.1" y="224.7" width="189" height="57.9" rx="12.4"></rect>
+					<rect id="Rectangle 273" class="s154" x="277.1" y="224.7" width="189" height="57.9" rx="12.3"></rect>
+					<rect id="Rectangle 274" class="s155" x="277.1" y="224.7" width="189" height="57.9" rx="12.3"></rect>
+					<rect id="Rectangle 275" class="s156" x="277.1" y="224.7" width="189" height="57.9" rx="12.3"></rect>
+					<rect id="Rectangle 276" class="s157" x="277.1" y="224.7" width="189" height="57.9" rx="12.3"></rect>
+					<rect id="Rectangle 277" class="s158" x="277" y="224.6" width="189" height="57.9" rx="12.2"></rect>
+					<rect id="Rectangle 278" class="s159" x="277" y="224.6" width="189" height="57.9" rx="12.2"></rect>
+					<rect id="Rectangle 279" class="s160" x="277" y="224.6" width="189" height="57.9" rx="12.2"></rect>
+					<rect id="Rectangle 280" class="s161" x="277" y="224.6" width="189" height="57.9" rx="12.2"></rect>
+					<rect id="Rectangle 281" class="s162" x="277" y="224.6" width="189" height="57.9" rx="12.1"></rect>
+					<rect id="Rectangle 282" class="s163" x="276.9" y="224.5" width="189" height="57.9" rx="12.1"></rect>
+					<rect id="Rectangle 283" class="s164" x="276.9" y="224.5" width="189" height="57.9" rx="12.1"></rect>
+					<rect id="Rectangle 284" class="s165" x="276.9" y="224.5" width="189" height="57.9" rx="12.1"></rect>
+					<rect id="Rectangle 285" class="s166" x="276.9" y="224.5" width="189" height="57.9" rx="12.1"></rect>
+					<rect id="Rectangle 286" class="s167" x="276.9" y="224.5" width="189" height="57.9" rx="12"></rect>
+					<rect id="Rectangle 287" class="s168" x="276.8" y="224.4" width="189" height="57.9" rx="12"></rect>
+					<rect id="Rectangle 288" class="s169" x="276.8" y="224.4" width="189" height="57.9" rx="12"></rect>
+					<rect id="Rectangle 289" class="s170" x="276.8" y="224.4" width="189" height="57.9" rx="12"></rect>
+					<rect id="Rectangle 290" class="s171" x="276.8" y="224.4" width="189" height="57.9" rx="11.9"></rect>
+					<rect id="Rectangle 291" class="s172" x="276.8" y="224.4" width="189" height="57.9" rx="11.9"></rect>
+					<rect id="Rectangle 292" class="s173" x="276.8" y="224.3" width="189" height="57.9" rx="11.9"></rect>
+					<rect id="Rectangle 293" class="s174" x="276.7" y="224.3" width="189" height="57.9" rx="11.9"></rect>
+					<rect id="Rectangle 294" class="s175" x="276.7" y="224.3" width="189" height="57.9" rx="11.8"></rect>
+					<rect id="Rectangle 295" class="s176" x="276.7" y="224.3" width="189" height="57.9" rx="11.8"></rect>
+					<rect id="Rectangle 296" class="s177" x="276.7" y="224.3" width="189" height="57.9" rx="11.8"></rect>
+					<rect id="Rectangle 297" class="s178" x="276.7" y="224.2" width="189" height="57.9" rx="11.8"></rect>
+					<rect id="Rectangle 298" class="s179" x="276.6" y="224.2" width="189" height="57.9" rx="11.8"></rect>
+					<rect id="Rectangle 299" class="s180" x="276.6" y="224.2" width="189" height="57.9" rx="11.7"></rect>
+					<rect id="Rectangle 300" class="s181" x="276.6" y="224.2" width="189" height="57.9" rx="11.7"></rect>
+					<rect id="Rectangle 301" class="s182" x="276.6" y="224.2" width="189" height="57.9" rx="11.7"></rect>
+					<rect id="Rectangle 302" class="s183" x="276.6" y="224.1" width="189" height="57.9" rx="11.7"></rect>
+					<rect id="Rectangle 303" class="s184" x="276.6" y="224.1" width="189" height="57.9" rx="11.6"></rect>
+					<rect id="Rectangle 304" class="s185" x="276.5" y="224.1" width="189" height="57.9" rx="11.6"></rect>
+					<rect id="Rectangle 305" class="s186" x="276.5" y="224.1" width="189" height="57.9" rx="11.6"></rect>
+					<rect id="Rectangle 306" class="s187" x="276.5" y="224.1" width="189" height="57.9" rx="11.6"></rect>
+					<rect id="Rectangle 307" class="s188" x="276.5" y="224" width="189" height="57.9" rx="11.5"></rect>
+					<rect id="Rectangle 308" class="s189" x="276.5" y="224" width="189" height="57.9" rx="11.5"></rect>
+					<rect id="Rectangle 309" class="s190" x="276.4" y="224" width="189" height="57.9" rx="11.5"></rect>
+					<rect id="Rectangle 310" class="s191" x="276.4" y="224" width="189" height="57.9" rx="11.5"></rect>
+					<rect id="Rectangle 311" class="s192" x="276.4" y="224" width="189" height="57.9" rx="11.5"></rect>
+					<rect id="Rectangle 312" class="s193" x="276.4" y="223.9" width="189" height="57.9" rx="11.4"></rect>
+					<rect id="Rectangle 313" class="s194" x="276.4" y="223.9" width="189" height="57.9" rx="11.4"></rect>
+					<rect id="Rectangle 314" class="s195" x="276.3" y="223.9" width="189" height="57.9" rx="11.4"></rect>
+					<rect id="Rectangle 315" class="s196" x="276.3" y="223.9" width="189" height="57.9" rx="11.4"></rect>
+					<rect id="Rectangle 316" class="s197" x="276.3" y="223.9" width="189" height="57.9" rx="11.3"></rect>
+					<rect id="Rectangle 317" class="s198" x="276.3" y="223.8" width="189" height="57.9" rx="11.3"></rect>
+					<rect id="Rectangle 318" class="s199" x="276.3" y="223.8" width="189" height="57.9" rx="11.3"></rect>
+					<rect id="Rectangle 319" class="s200" x="276.3" y="223.8" width="189" height="57.9" rx="11.3"></rect>
+					<rect id="Rectangle 320" class="s201" x="276.2" y="223.8" width="189" height="57.9" rx="11.3"></rect>
+					<rect id="Rectangle 321" class="s202" x="276.2" y="223.8" width="189" height="57.9" rx="11.2"></rect>
+					<rect id="Rectangle 322" class="s203" x="276.2" y="223.7" width="189" height="57.9" rx="11.2"></rect>
+					<rect id="Rectangle 323" class="s204" x="276.2" y="223.7" width="189" height="57.9" rx="11.2"></rect>
+					<rect id="Rectangle 324" class="s205" x="276.2" y="223.7" width="189" height="57.9" rx="11.2"></rect>
+					<rect id="Rectangle 325" class="s206" x="276.1" y="223.7" width="189" height="57.9" rx="11.1"></rect>
+					<rect id="Rectangle 326" class="s207" x="276.1" y="223.7" width="189" height="57.9" rx="11.1"></rect>
+					<rect id="Rectangle 327" class="s208" x="276.1" y="223.6" width="189" height="57.9" rx="11.1"></rect>
+					<rect id="Rectangle 328" class="s209" x="276.1" y="223.6" width="189" height="57.9" rx="11.1"></rect>
+					<rect id="Rectangle 329" class="s210" x="276.1" y="223.6" width="189" height="57.9" rx="11"></rect>
+					<rect id="Rectangle 330" class="s211" x="276.1" y="223.6" width="189" height="57.9" rx="11"></rect>
+					<rect id="Rectangle 331" class="s212" x="276" y="223.6" width="189" height="57.9" rx="11"></rect>
+					<rect id="Rectangle 332" class="s213" x="276" y="223.5" width="189" height="57.9" rx="11"></rect>
+					<rect id="Rectangle 333" class="s214" x="276" y="223.5" width="189" height="57.9" rx="11"></rect>
+					<rect id="Rectangle 334" class="s215" x="276" y="223.5" width="189" height="57.9" rx="10.9"></rect>
+					<rect id="Rectangle 335" class="s216" x="276" y="223.5" width="189" height="57.9" rx="10.9"></rect>
+					<rect id="Rectangle 336" class="s217" x="275.9" y="223.5" width="189" height="57.9" rx="10.9"></rect>
+					<rect id="Rectangle 337" class="s218" x="275.9" y="223.4" width="189" height="57.9" rx="10.9"></rect>
+					<rect id="Rectangle 338" class="s219" x="275.9" y="223.4" width="189" height="57.9" rx="10.8"></rect>
+					<rect id="Rectangle 339" class="s220" x="275.9" y="223.4" width="189" height="57.9" rx="10.8"></rect>
+					<rect id="Rectangle 340" class="s221" x="275.9" y="223.4" width="189" height="57.9" rx="10.8"></rect>
+					<rect id="Rectangle 341" class="s222" x="275.8" y="223.4" width="189" height="57.9" rx="10.8"></rect>
+					<rect id="Rectangle 342" class="s223" x="275.8" y="223.3" width="189" height="57.9" rx="10.7"></rect>
+					<rect id="Rectangle 343" class="s224" x="275.8" y="223.3" width="189" height="57.9" rx="10.7"></rect>
+					<rect id="Rectangle 344" class="s225" x="275.8" y="223.3" width="189" height="57.9" rx="10.7"></rect>
+					<rect id="Rectangle 345" class="s226" x="275.8" y="223.3" width="189" height="57.9" rx="10.7"></rect>
+					<rect id="Rectangle 346" class="s227" x="275.8" y="223.3" width="189" height="57.9" rx="10.7"></rect>
+					<rect id="Rectangle 347" class="s228" x="275.7" y="223.2" width="189" height="57.9" rx="10.6"></rect>
+					<rect id="Rectangle 348" class="s229" x="275.7" y="223.2" width="189" height="57.9" rx="10.6"></rect>
+					<rect id="Rectangle 349" class="s230" x="275.7" y="223.2" width="189" height="57.9" rx="10.6"></rect>
+					<rect id="Rectangle 350" class="s231" x="275.7" y="223.2" width="189" height="57.9" rx="10.6"></rect>
+					<rect id="Rectangle 351" class="s232" x="275.7" y="223.2" width="189" height="57.9" rx="10.5"></rect>
+					<rect id="Rectangle 352" class="s233" x="275.6" y="223.1" width="189" height="57.9" rx="10.5"></rect>
+					<rect id="Rectangle 353" class="s234" x="275.6" y="223.1" width="189" height="57.9" rx="10.5"></rect>
+					<rect id="Rectangle 354" class="s235" x="275.6" y="223.1" width="189" height="57.9" rx="10.5"></rect>
+					<rect id="Rectangle 355" class="s236" x="275.6" y="223.1" width="189" height="57.9" rx="10.4"></rect>
+					<rect id="Rectangle 356" class="s237" x="275.6" y="223.1" width="189" height="57.9" rx="10.4"></rect>
+					<rect id="Rectangle 357" class="s238" x="275.5" y="223" width="189" height="57.9" rx="10.4"></rect>
+					<rect id="Rectangle 358" class="s239" x="275.5" y="223" width="189" height="57.9" rx="10.4"></rect>
+					<rect id="Rectangle 359" class="s240" x="275.5" y="223" width="189" height="57.9" rx="10.4"></rect>
+					<rect id="Rectangle 360" class="s241" x="275.5" y="223" width="189" height="57.9" rx="10.3"></rect>
+					<rect id="Rectangle 361" class="s242" x="275.5" y="223" width="189" height="57.9" rx="10.3"></rect>
+					<rect id="Rectangle 362" class="s243" x="275.5" y="222.9" width="189" height="57.9" rx="10.3"></rect>
+					<rect id="Rectangle 363" class="s244" x="275.4" y="222.9" width="189" height="57.9" rx="10.3"></rect>
+					<rect id="Rectangle 364" class="s245" x="275.4" y="222.9" width="189" height="57.9" rx="10.2"></rect>
+					<rect id="Rectangle 365" class="s246" x="275.4" y="222.9" width="189" height="57.9" rx="10.2"></rect>
+					<rect id="Rectangle 366" class="s247" x="275.4" y="222.9" width="189" height="57.9" rx="10.2"></rect>
+					<rect id="Rectangle 367" class="s248" x="275.4" y="222.9" width="189" height="57.9" rx="10.2"></rect>
+					<rect id="Rectangle 368" class="s249" x="275.3" y="222.8" width="189" height="57.9" rx="10.1"></rect>
+					<rect id="Rectangle 369" class="s250" x="275.3" y="222.8" width="189" height="57.9" rx="10.1"></rect>
+					<rect id="Rectangle 370" class="s251" x="275.3" y="222.8" width="189" height="57.9" rx="10.1"></rect>
+					<rect id="Rectangle 371" class="s252" x="275.3" y="222.8" width="189" height="57.9" rx="10.1"></rect>
+					<rect id="Rectangle 372" class="s253" x="275.3" y="222.8" width="189" height="57.9" rx="10.1"></rect>
+					<rect id="Rectangle 373" class="s254" x="275.3" y="222.7" width="189" height="57.9" rx="10"></rect>
+					<rect id="Rectangle 374" class="s255" x="275.2" y="222.7" width="189" height="57.9" rx="10"></rect>
+					<rect id="Rectangle 375" class="s256" x="275.2" y="222.7" width="189" height="57.9" rx="10"></rect>
+					<rect id="Rectangle 376" class="s257" x="275.2" y="222.7" width="189" height="57.9" rx="10"></rect>
+					<rect id="Rectangle 377" class="s258" x="275.2" y="222.7" width="189" height="57.9" rx="9.9"></rect>
+					<rect id="Rectangle 378" class="s259" x="275.2" y="222.6" width="189" height="57.9" rx="9.9"></rect>
+					<rect id="Rectangle 379" class="s260" x="275.1" y="222.6" width="189" height="57.9" rx="9.9"></rect>
+					<rect id="Rectangle 380" class="s261" x="275.1" y="222.6" width="189" height="57.9" rx="9.9"></rect>
+					<rect id="Rectangle 381" class="s262" x="275.1" y="222.6" width="189" height="57.9" rx="9.8"></rect>
+					<rect id="Rectangle 382" class="s263" x="275.1" y="222.6" width="189" height="57.9" rx="9.8"></rect>
+					<rect id="Rectangle 383" class="s264" x="275.1" y="222.5" width="189" height="57.9" rx="9.8"></rect>
+					<rect id="Rectangle 384" class="s265" x="275" y="222.5" width="189" height="57.9" rx="9.8"></rect>
+					<rect id="Rectangle 385" class="s266" x="275" y="222.5" width="189" height="57.9" rx="9.8"></rect>
+					<rect id="Rectangle 386" class="s267" x="275" y="222.5" width="189" height="57.9" rx="9.7"></rect>
+					<rect id="Rectangle 387" class="s268" x="275" y="222.5" width="189" height="57.9" rx="9.7"></rect>
+					<rect id="Rectangle 388" class="s269" x="275" y="222.4" width="189" height="57.9" rx="9.7"></rect>
+					<rect id="Rectangle 389" class="s270" x="275" y="222.4" width="189" height="57.9" rx="9.7"></rect>
+					<rect id="Rectangle 390" class="s271" x="274.9" y="222.4" width="189" height="57.9" rx="9.6"></rect>
+					<rect id="Rectangle 391" class="s272" x="274.9" y="222.4" width="189" height="57.9" rx="9.6"></rect>
+					<rect id="Rectangle 392" class="s273" x="274.9" y="222.4" width="189" height="57.9" rx="9.6"></rect>
+					<rect id="Rectangle 393" class="s274" x="274.9" y="222.3" width="189" height="57.9" rx="9.6"></rect>
+					<rect id="Rectangle 394" class="s275" x="274.9" y="222.3" width="189" height="57.9" rx="9.5"></rect>
+					<rect id="Rectangle 395" class="s276" x="274.8" y="222.3" width="189" height="57.9" rx="9.5"></rect>
+					<rect id="Rectangle 396" class="s277" x="274.8" y="222.3" width="189" height="57.9" rx="9.5"></rect>
+					<rect id="Rectangle 397" class="s278" x="274.8" y="222.3" width="189" height="57.9" rx="9.5"></rect>
+					<rect id="Rectangle 398" class="s279" x="274.8" y="222.2" width="189" height="57.9" rx="9.5"></rect>
+					<rect id="Rectangle 399" class="s280" x="274.8" y="222.2" width="189" height="57.9" rx="9.4"></rect>
+					<rect id="Rectangle 400" class="s281" x="274.7" y="222.2" width="189" height="57.9" rx="9.4"></rect>
+					<rect id="Rectangle 401" class="s57" x="274.7" y="222.2" width="189" height="57.9" rx="9.4"></rect>
+				</g>
+				<rect id="Rectangle 402" class="s282" x="274.7" y="222.2" width="189" height="57.9" rx="9.4"></rect>
+				<g id="Group 1533">
+					<rect id="Path 6644" class="s19" x="336.7" y="250.7" width="98.7" height="4" rx="1.7"></rect>
+					<rect id="Path 6645" class="s19" x="336.7" y="259.8" width="98.7" height="4" rx="1.7"></rect>
+					<rect id="Path 6646" class="s19" x="336.7" y="268.8" width="59.8" height="4" rx="1.7"></rect>
+				</g>
+				<g id="Group 1538">
+					<g id="Group 1537">
+						<path id="Ellipse 334" class="s19" d="m318.1 269c-7.8 7.8-20.4 7.8-28.2 0-7.8-7.8-7.8-20.4 0-28.2 7.8-7.9 20.4-7.9 28.2 0 7.9 7.8 7.9 20.4 0 28.2z"/>
+						<g id="Group 1536">
+							<g id="Group 1535" clip-path="url(#cp1)">
+								<g id="Group 1534">
+									<path id="Path 6647" class="s283" d="m313.8 254.1l-1.4 5.5c-0.6 1.2-1.2 2.4-2 3.4-0.9 1.2-1.9 2.3-3.2 3.1-1 0.5-2 0.8-3.1 0.9-1.1-0.1-2.2-0.4-3.1-0.9-1.3-0.8-2.4-1.9-3.2-3.1-0.8-1-1.5-2.2-2-3.4l-1.4-5.5q0-0.3 0-0.5 0-0.1 0-0.1 0-0.3 0-0.6 0-0.8 0-1.5v-0.8c0.2-3.8 9.7-4.2 9.7-4.2 0 0 9.5 0.4 9.6 4.2v0.8q0 0.7 0 1.5 0 0.3 0 0.6 0.1 0 0.1 0.1 0 0.2 0 0.5z"/>
+									<path id="Path 6648" class="s3" d="m294.3 262.8c0.6-1.3 1-2.7 0.9-3.8-0.4-3.2-2.3-8.1-2.1-11.6 0.2-2.2 1-9 11-9.6 10-0.6 11.6 7.9 10.3 16.1-0.8 4.7-1.2 7.1-0.6 9 0.4 1-0.3 2-1.3 2.1l-4.2 0.2c2.3-2.1 5-6.2 4.3-11.7-0.4-3.9-1.9-6-4.4-5.9-2.6 0.1-5.3 3.1-7.9 3.1-2.6 0-3.7-0.9-3.3-1.9 0.3-1.1-1.8 0.2-1.6 6.3 0.2 3.1 1.4 5.7 2.5 7.6 0.5 0.8 1.2 1.9 1.9 2.5l-4.1-0.2c-1.1-0.1-1.8-1.2-1.4-2.2z"/>
+									<path id="Rectangle 403" class="s283" d="m299.8 265.2h8.5v10.3h-8.5z"/>
+									<path id="Path 6649" class="s284" d="m288 283.5l0.1-10.6c0 0 8.3-3.7 11.5-4.5v0.2c-0.2 0.1-0.4 0.3-0.3 0.5 0.1 0.8 4.6 2.1 4.8 2.2 0.1-0.1 4.6-1.4 4.7-2.2 0.1-0.2-0.1-0.4-0.3-0.5v-0.2c3.2 0.8 11.5 4.5 11.5 4.5 0 0 0 4.4-0.1 10.6z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="Group 1539">
+					<path id="Path 6650" class="s285" d="m355.9 235l-4.3 4.1 1 5.9-5.3-2.8-5.2 2.8 1-5.9-4.3-4.1 5.9-0.9 2.6-5.3 2.7 5.3z"/>
+					<path id="Path 6651" class="s286" d="m375.6 235l-4.2 4.1 1 5.9-5.3-2.8-5.2 2.8 1-5.9-4.3-4.1 5.9-0.9 2.6-5.3 2.6 5.3z"/>
+					<path id="Path 6652" class="s287" d="m395.4 235l-4.3 4.1 1 5.9-5.2-2.8-5.3 2.8 1-5.9-4.2-4.1 5.8-0.9 2.7-5.3 2.6 5.3z"/>
+					<path id="Path 6653" class="s288" d="m415.1 235l-4.2 4.1 1 5.9-5.3-2.8-5.2 2.8 1-5.9-4.3-4.1 5.9-0.9 2.6-5.3 2.7 5.3z"/>
+					<path id="Path 6654" class="s289" d="m430.7 239.1l1 5.9-5.3-2.8-5.3 2.8 1-5.9-4.2-4.1 5.9-0.9 2.6-5.3 2.6 5.3 5.9 0.9z"/>
+				</g>
+			</g>
+			<g id="Group 1550">
+				<g id="Group 1541" style="opacity: .3">
+					<rect id="Rectangle 404" class="s19" x="278.7" y="299.6" width="189" height="57.9" rx="14.2"></rect>
+					<rect id="Rectangle 405" class="s72" x="278.6" y="299.6" width="189" height="57.9" rx="14.2"></rect>
+					<rect id="Rectangle 406" class="s73" x="278.6" y="299.6" width="189" height="57.9" rx="14.2"></rect>
+					<rect id="Rectangle 407" class="s74" x="278.6" y="299.6" width="189" height="57.9" rx="14.2"></rect>
+					<rect id="Rectangle 408" class="s75" x="278.6" y="299.6" width="189" height="57.9" rx="14.1"></rect>
+					<rect id="Rectangle 409" class="s76" x="278.6" y="299.6" width="189" height="57.9" rx="14.1"></rect>
+					<rect id="Rectangle 410" class="s77" x="278.5" y="299.5" width="189" height="57.9" rx="14.1"></rect>
+					<rect id="Rectangle 411" class="s78" x="278.5" y="299.5" width="189" height="57.9" rx="14.1"></rect>
+					<rect id="Rectangle 412" class="s79" x="278.5" y="299.5" width="189" height="57.9" rx="14.1"></rect>
+					<rect id="Rectangle 413" class="s80" x="278.5" y="299.5" width="189" height="57.9" rx="14"></rect>
+					<rect id="Rectangle 414" class="s81" x="278.5" y="299.5" width="189" height="57.9" rx="14"></rect>
+					<rect id="Rectangle 415" class="s82" x="278.5" y="299.4" width="189" height="57.9" rx="14"></rect>
+					<rect id="Rectangle 416" class="s83" x="278.4" y="299.4" width="189" height="57.9" rx="14"></rect>
+					<rect id="Rectangle 417" class="s84" x="278.4" y="299.4" width="189" height="57.9" rx="13.9"></rect>
+					<rect id="Rectangle 418" class="s85" x="278.4" y="299.4" width="189" height="57.9" rx="13.9"></rect>
+					<rect id="Rectangle 419" class="s86" x="278.4" y="299.4" width="189" height="57.9" rx="13.9"></rect>
+					<rect id="Rectangle 420" class="s87" x="278.4" y="299.3" width="189" height="57.9" rx="13.9"></rect>
+					<rect id="Rectangle 421" class="s88" x="278.3" y="299.3" width="189" height="57.9" rx="13.9"></rect>
+					<rect id="Rectangle 422" class="s89" x="278.3" y="299.3" width="189" height="57.9" rx="13.8"></rect>
+					<rect id="Rectangle 423" class="s90" x="278.3" y="299.3" width="189" height="57.9" rx="13.8"></rect>
+					<rect id="Rectangle 424" class="s91" x="278.3" y="299.3" width="189" height="57.9" rx="13.8"></rect>
+					<rect id="Rectangle 425" class="s92" x="278.3" y="299.2" width="189" height="57.9" rx="13.8"></rect>
+					<rect id="Rectangle 426" class="s93" x="278.2" y="299.2" width="189" height="57.9" rx="13.7"></rect>
+					<rect id="Rectangle 427" class="s94" x="278.2" y="299.2" width="189" height="57.9" rx="13.7"></rect>
+					<rect id="Rectangle 428" class="s95" x="278.2" y="299.2" width="189" height="57.9" rx="13.7"></rect>
+					<rect id="Rectangle 429" class="s96" x="278.2" y="299.2" width="189" height="57.9" rx="13.7"></rect>
+					<rect id="Rectangle 430" class="s97" x="278.2" y="299.1" width="189" height="57.9" rx="13.6"></rect>
+					<rect id="Rectangle 431" class="s98" x="278.2" y="299.1" width="189" height="57.9" rx="13.6"></rect>
+					<rect id="Rectangle 432" class="s99" x="278.1" y="299.1" width="189" height="57.9" rx="13.6"></rect>
+					<rect id="Rectangle 433" class="s100" x="278.1" y="299.1" width="189" height="57.9" rx="13.6"></rect>
+					<rect id="Rectangle 434" class="s101" x="278.1" y="299.1" width="189" height="57.9" rx="13.6"></rect>
+					<rect id="Rectangle 435" class="s102" x="278.1" y="299" width="189" height="57.9" rx="13.5"></rect>
+					<rect id="Rectangle 436" class="s103" x="278.1" y="299" width="189" height="57.9" rx="13.5"></rect>
+					<rect id="Rectangle 437" class="s104" x="278" y="299" width="189" height="57.9" rx="13.5"></rect>
+					<rect id="Rectangle 438" class="s105" x="278" y="299" width="189" height="57.9" rx="13.5"></rect>
+					<rect id="Rectangle 439" class="s106" x="278" y="299" width="189" height="57.9" rx="13.4"></rect>
+					<rect id="Rectangle 440" class="s107" x="278" y="298.9" width="189" height="57.9" rx="13.4"></rect>
+					<rect id="Rectangle 441" class="s108" x="278" y="298.9" width="189" height="57.9" rx="13.4"></rect>
+					<rect id="Rectangle 442" class="s109" x="277.9" y="298.9" width="189" height="57.9" rx="13.4"></rect>
+					<rect id="Rectangle 443" class="s110" x="277.9" y="298.9" width="189" height="57.9" rx="13.3"></rect>
+					<rect id="Rectangle 444" class="s111" x="277.9" y="298.9" width="189" height="57.9" rx="13.3"></rect>
+					<rect id="Rectangle 445" class="s112" x="277.9" y="298.8" width="189" height="57.9" rx="13.3"></rect>
+					<rect id="Rectangle 446" class="s113" x="277.9" y="298.8" width="189" height="57.9" rx="13.3"></rect>
+					<rect id="Rectangle 447" class="s114" x="277.9" y="298.8" width="189" height="57.9" rx="13.3"></rect>
+					<rect id="Rectangle 448" class="s115" x="277.8" y="298.8" width="189" height="57.9" rx="13.2"></rect>
+					<rect id="Rectangle 449" class="s116" x="277.8" y="298.8" width="189" height="57.9" rx="13.2"></rect>
+					<rect id="Rectangle 450" class="s117" x="277.8" y="298.7" width="189" height="57.9" rx="13.2"></rect>
+					<rect id="Rectangle 451" class="s118" x="277.8" y="298.7" width="189" height="57.9" rx="13.2"></rect>
+					<rect id="Rectangle 452" class="s119" x="277.8" y="298.7" width="189" height="57.9" rx="13.1"></rect>
+					<rect id="Rectangle 453" class="s120" x="277.7" y="298.7" width="189" height="57.9" rx="13.1"></rect>
+					<rect id="Rectangle 454" class="s121" x="277.7" y="298.7" width="189" height="57.9" rx="13.1"></rect>
+					<rect id="Rectangle 455" class="s122" x="277.7" y="298.6" width="189" height="57.9" rx="13.1"></rect>
+					<rect id="Rectangle 456" class="s123" x="277.7" y="298.6" width="189" height="57.9" rx="13"></rect>
+					<rect id="Rectangle 457" class="s124" x="277.7" y="298.6" width="189" height="57.9" rx="13"></rect>
+					<rect id="Rectangle 458" class="s125" x="277.7" y="298.6" width="189" height="57.9" rx="13"></rect>
+					<rect id="Rectangle 459" class="s126" x="277.6" y="298.6" width="189" height="57.9" rx="13"></rect>
+					<rect id="Rectangle 460" class="s127" x="277.6" y="298.5" width="189" height="57.9" rx="13"></rect>
+					<rect id="Rectangle 461" class="s128" x="277.6" y="298.5" width="189" height="57.9" rx="12.9"></rect>
+					<rect id="Rectangle 462" class="s129" x="277.6" y="298.5" width="189" height="57.9" rx="12.9"></rect>
+					<rect id="Rectangle 463" class="s130" x="277.6" y="298.5" width="189" height="57.9" rx="12.9"></rect>
+					<rect id="Rectangle 464" class="s131" x="277.5" y="298.5" width="189" height="57.9" rx="12.9"></rect>
+					<rect id="Rectangle 465" class="s132" x="277.5" y="298.4" width="189" height="57.9" rx="12.8"></rect>
+					<rect id="Rectangle 466" class="s133" x="277.5" y="298.4" width="189" height="57.9" rx="12.8"></rect>
+					<rect id="Rectangle 467" class="s134" x="277.5" y="298.4" width="189" height="57.9" rx="12.8"></rect>
+					<rect id="Rectangle 468" class="s135" x="277.5" y="298.4" width="189" height="57.9" rx="12.8"></rect>
+					<rect id="Rectangle 469" class="s136" x="277.4" y="298.4" width="189" height="57.9" rx="12.7"></rect>
+					<rect id="Rectangle 470" class="s137" x="277.4" y="298.3" width="189" height="57.9" rx="12.7"></rect>
+					<rect id="Rectangle 471" class="s138" x="277.4" y="298.3" width="189" height="57.9" rx="12.7"></rect>
+					<rect id="Rectangle 472" class="s139" x="277.4" y="298.3" width="189" height="57.9" rx="12.7"></rect>
+					<rect id="Rectangle 473" class="s140" x="277.4" y="298.3" width="189" height="57.9" rx="12.7"></rect>
+					<rect id="Rectangle 474" class="s141" x="277.4" y="298.3" width="189" height="57.9" rx="12.6"></rect>
+					<rect id="Rectangle 475" class="s142" x="277.3" y="298.2" width="189" height="57.9" rx="12.6"></rect>
+					<rect id="Rectangle 476" class="s143" x="277.3" y="298.2" width="189" height="57.9" rx="12.6"></rect>
+					<rect id="Rectangle 477" class="s144" x="277.3" y="298.2" width="189" height="57.9" rx="12.6"></rect>
+					<rect id="Rectangle 478" class="s145" x="277.3" y="298.2" width="189" height="57.9" rx="12.5"></rect>
+					<rect id="Rectangle 479" class="s146" x="277.3" y="298.2" width="189" height="57.9" rx="12.5"></rect>
+					<rect id="Rectangle 480" class="s147" x="277.2" y="298.1" width="189" height="57.9" rx="12.5"></rect>
+					<rect id="Rectangle 481" class="s148" x="277.2" y="298.1" width="189" height="57.9" rx="12.5"></rect>
+					<rect id="Rectangle 482" class="s149" x="277.2" y="298.1" width="189" height="57.9" rx="12.4"></rect>
+					<rect id="Rectangle 483" class="s150" x="277.2" y="298.1" width="189" height="57.9" rx="12.4"></rect>
+					<rect id="Rectangle 484" class="s151" x="277.2" y="298.1" width="189" height="57.9" rx="12.4"></rect>
+					<rect id="Rectangle 485" class="s152" x="277.1" y="298" width="189" height="57.9" rx="12.4"></rect>
+					<rect id="Rectangle 486" class="s153" x="277.1" y="298" width="189" height="57.9" rx="12.4"></rect>
+					<rect id="Rectangle 487" class="s154" x="277.1" y="298" width="189" height="57.9" rx="12.3"></rect>
+					<rect id="Rectangle 488" class="s155" x="277.1" y="298" width="189" height="57.9" rx="12.3"></rect>
+					<rect id="Rectangle 489" class="s156" x="277.1" y="298" width="189" height="57.9" rx="12.3"></rect>
+					<rect id="Rectangle 490" class="s157" x="277.1" y="297.9" width="189" height="57.9" rx="12.3"></rect>
+					<rect id="Rectangle 491" class="s158" x="277" y="297.9" width="189" height="57.9" rx="12.2"></rect>
+					<rect id="Rectangle 492" class="s159" x="277" y="297.9" width="189" height="57.9" rx="12.2"></rect>
+					<rect id="Rectangle 493" class="s160" x="277" y="297.9" width="189" height="57.9" rx="12.2"></rect>
+					<rect id="Rectangle 494" class="s161" x="277" y="297.9" width="189" height="57.9" rx="12.2"></rect>
+					<rect id="Rectangle 495" class="s162" x="277" y="297.8" width="189" height="57.9" rx="12.1"></rect>
+					<rect id="Rectangle 496" class="s163" x="276.9" y="297.8" width="189" height="57.9" rx="12.1"></rect>
+					<rect id="Rectangle 497" class="s164" x="276.9" y="297.8" width="189" height="57.9" rx="12.1"></rect>
+					<rect id="Rectangle 498" class="s165" x="276.9" y="297.8" width="189" height="57.9" rx="12.1"></rect>
+					<rect id="Rectangle 499" class="s166" x="276.9" y="297.8" width="189" height="57.9" rx="12.1"></rect>
+					<rect id="Rectangle 500" class="s167" x="276.9" y="297.7" width="189" height="57.9" rx="12"></rect>
+					<rect id="Rectangle 501" class="s168" x="276.9" y="297.7" width="189" height="57.9" rx="12"></rect>
+					<rect id="Rectangle 502" class="s169" x="276.8" y="297.7" width="189" height="57.9" rx="12"></rect>
+					<rect id="Rectangle 503" class="s170" x="276.8" y="297.7" width="189" height="57.9" rx="12"></rect>
+					<rect id="Rectangle 504" class="s171" x="276.8" y="297.7" width="189" height="57.9" rx="11.9"></rect>
+					<rect id="Rectangle 505" class="s172" x="276.8" y="297.6" width="189" height="57.9" rx="11.9"></rect>
+					<rect id="Rectangle 506" class="s173" x="276.8" y="297.6" width="189" height="57.9" rx="11.9"></rect>
+					<rect id="Rectangle 507" class="s174" x="276.7" y="297.6" width="189" height="57.9" rx="11.9"></rect>
+					<rect id="Rectangle 508" class="s175" x="276.7" y="297.6" width="189" height="57.9" rx="11.8"></rect>
+					<rect id="Rectangle 509" class="s176" x="276.7" y="297.6" width="189" height="57.9" rx="11.8"></rect>
+					<rect id="Rectangle 510" class="s177" x="276.7" y="297.5" width="189" height="57.9" rx="11.8"></rect>
+					<rect id="Rectangle 511" class="s178" x="276.7" y="297.5" width="189" height="57.9" rx="11.8"></rect>
+					<rect id="Rectangle 512" class="s179" x="276.6" y="297.5" width="189" height="57.9" rx="11.8"></rect>
+					<rect id="Rectangle 513" class="s180" x="276.6" y="297.5" width="189" height="57.9" rx="11.7"></rect>
+					<rect id="Rectangle 514" class="s181" x="276.6" y="297.5" width="189" height="57.9" rx="11.7"></rect>
+					<rect id="Rectangle 515" class="s182" x="276.6" y="297.4" width="189" height="57.9" rx="11.7"></rect>
+					<rect id="Rectangle 516" class="s183" x="276.6" y="297.4" width="189" height="57.9" rx="11.7"></rect>
+					<rect id="Rectangle 517" class="s184" x="276.6" y="297.4" width="189" height="57.9" rx="11.6"></rect>
+					<rect id="Rectangle 518" class="s185" x="276.5" y="297.4" width="189" height="57.9" rx="11.6"></rect>
+					<rect id="Rectangle 519" class="s186" x="276.5" y="297.4" width="189" height="57.9" rx="11.6"></rect>
+					<rect id="Rectangle 520" class="s187" x="276.5" y="297.3" width="189" height="57.9" rx="11.6"></rect>
+					<rect id="Rectangle 521" class="s188" x="276.5" y="297.3" width="189" height="57.9" rx="11.5"></rect>
+					<rect id="Rectangle 522" class="s189" x="276.5" y="297.3" width="189" height="57.9" rx="11.5"></rect>
+					<rect id="Rectangle 523" class="s190" x="276.4" y="297.3" width="189" height="57.9" rx="11.5"></rect>
+					<rect id="Rectangle 524" class="s191" x="276.4" y="297.3" width="189" height="57.9" rx="11.5"></rect>
+					<rect id="Rectangle 525" class="s192" x="276.4" y="297.2" width="189" height="57.9" rx="11.5"></rect>
+					<rect id="Rectangle 526" class="s193" x="276.4" y="297.2" width="189" height="57.9" rx="11.4"></rect>
+					<rect id="Rectangle 527" class="s194" x="276.4" y="297.2" width="189" height="57.9" rx="11.4"></rect>
+					<rect id="Rectangle 528" class="s195" x="276.3" y="297.2" width="189" height="57.9" rx="11.4"></rect>
+					<rect id="Rectangle 529" class="s196" x="276.3" y="297.2" width="189" height="57.9" rx="11.4"></rect>
+					<rect id="Rectangle 530" class="s197" x="276.3" y="297.1" width="189" height="57.9" rx="11.3"></rect>
+					<rect id="Rectangle 531" class="s198" x="276.3" y="297.1" width="189" height="57.9" rx="11.3"></rect>
+					<rect id="Rectangle 532" class="s199" x="276.3" y="297.1" width="189" height="57.9" rx="11.3"></rect>
+					<rect id="Rectangle 533" class="s200" x="276.3" y="297.1" width="189" height="57.9" rx="11.3"></rect>
+					<rect id="Rectangle 534" class="s201" x="276.2" y="297.1" width="189" height="57.9" rx="11.3"></rect>
+					<rect id="Rectangle 535" class="s202" x="276.2" y="297" width="189" height="57.9" rx="11.2"></rect>
+					<rect id="Rectangle 536" class="s203" x="276.2" y="297" width="189" height="57.9" rx="11.2"></rect>
+					<rect id="Rectangle 537" class="s204" x="276.2" y="297" width="189" height="57.9" rx="11.2"></rect>
+					<rect id="Rectangle 538" class="s205" x="276.2" y="297" width="189" height="57.9" rx="11.2"></rect>
+					<rect id="Rectangle 539" class="s206" x="276.1" y="297" width="189" height="57.9" rx="11.1"></rect>
+					<rect id="Rectangle 540" class="s207" x="276.1" y="296.9" width="189" height="57.9" rx="11.1"></rect>
+					<rect id="Rectangle 541" class="s208" x="276.1" y="296.9" width="189" height="57.9" rx="11.1"></rect>
+					<rect id="Rectangle 542" class="s209" x="276.1" y="296.9" width="189" height="57.9" rx="11.1"></rect>
+					<rect id="Rectangle 543" class="s210" x="276.1" y="296.9" width="189" height="57.9" rx="11"></rect>
+					<rect id="Rectangle 544" class="s211" x="276.1" y="296.9" width="189" height="57.9" rx="11"></rect>
+					<rect id="Rectangle 545" class="s212" x="276" y="296.8" width="189" height="57.9" rx="11"></rect>
+					<rect id="Rectangle 546" class="s213" x="276" y="296.8" width="189" height="57.9" rx="11"></rect>
+					<rect id="Rectangle 547" class="s214" x="276" y="296.8" width="189" height="57.9" rx="11"></rect>
+					<rect id="Rectangle 548" class="s215" x="276" y="296.8" width="189" height="57.9" rx="10.9"></rect>
+					<rect id="Rectangle 549" class="s216" x="276" y="296.8" width="189" height="57.9" rx="10.9"></rect>
+					<rect id="Rectangle 550" class="s217" x="275.9" y="296.7" width="189" height="57.9" rx="10.9"></rect>
+					<rect id="Rectangle 551" class="s218" x="275.9" y="296.7" width="189" height="57.9" rx="10.9"></rect>
+					<rect id="Rectangle 552" class="s219" x="275.9" y="296.7" width="189" height="57.9" rx="10.8"></rect>
+					<rect id="Rectangle 553" class="s220" x="275.9" y="296.7" width="189" height="57.9" rx="10.8"></rect>
+					<rect id="Rectangle 554" class="s221" x="275.9" y="296.7" width="189" height="57.9" rx="10.8"></rect>
+					<rect id="Rectangle 555" class="s222" x="275.8" y="296.6" width="189" height="57.9" rx="10.8"></rect>
+					<rect id="Rectangle 556" class="s223" x="275.8" y="296.6" width="189" height="57.9" rx="10.7"></rect>
+					<rect id="Rectangle 557" class="s224" x="275.8" y="296.6" width="189" height="57.9" rx="10.7"></rect>
+					<rect id="Rectangle 558" class="s225" x="275.8" y="296.6" width="189" height="57.9" rx="10.7"></rect>
+					<rect id="Rectangle 559" class="s226" x="275.8" y="296.6" width="189" height="57.9" rx="10.7"></rect>
+					<rect id="Rectangle 560" class="s227" x="275.8" y="296.5" width="189" height="57.9" rx="10.7"></rect>
+					<rect id="Rectangle 561" class="s228" x="275.7" y="296.5" width="189" height="57.9" rx="10.6"></rect>
+					<rect id="Rectangle 562" class="s229" x="275.7" y="296.5" width="189" height="57.9" rx="10.6"></rect>
+					<rect id="Rectangle 563" class="s230" x="275.7" y="296.5" width="189" height="57.9" rx="10.6"></rect>
+					<rect id="Rectangle 564" class="s231" x="275.7" y="296.5" width="189" height="57.9" rx="10.6"></rect>
+					<rect id="Rectangle 565" class="s232" x="275.7" y="296.4" width="189" height="57.9" rx="10.5"></rect>
+					<rect id="Rectangle 566" class="s233" x="275.6" y="296.4" width="189" height="57.9" rx="10.5"></rect>
+					<rect id="Rectangle 567" class="s234" x="275.6" y="296.4" width="189" height="57.9" rx="10.5"></rect>
+					<rect id="Rectangle 568" class="s235" x="275.6" y="296.4" width="189" height="57.9" rx="10.5"></rect>
+					<rect id="Rectangle 569" class="s236" x="275.6" y="296.4" width="189" height="57.9" rx="10.4"></rect>
+					<rect id="Rectangle 570" class="s237" x="275.6" y="296.3" width="189" height="57.9" rx="10.4"></rect>
+					<rect id="Rectangle 571" class="s238" x="275.5" y="296.3" width="189" height="57.9" rx="10.4"></rect>
+					<rect id="Rectangle 572" class="s239" x="275.5" y="296.3" width="189" height="57.9" rx="10.4"></rect>
+					<rect id="Rectangle 573" class="s240" x="275.5" y="296.3" width="189" height="57.9" rx="10.4"></rect>
+					<rect id="Rectangle 574" class="s241" x="275.5" y="296.3" width="189" height="57.9" rx="10.3"></rect>
+					<rect id="Rectangle 575" class="s242" x="275.5" y="296.2" width="189" height="57.9" rx="10.3"></rect>
+					<rect id="Rectangle 576" class="s243" x="275.5" y="296.2" width="189" height="57.9" rx="10.3"></rect>
+					<rect id="Rectangle 577" class="s244" x="275.4" y="296.2" width="189" height="57.9" rx="10.3"></rect>
+					<rect id="Rectangle 578" class="s245" x="275.4" y="296.2" width="189" height="57.9" rx="10.2"></rect>
+					<rect id="Rectangle 579" class="s246" x="275.4" y="296.2" width="189" height="57.9" rx="10.2"></rect>
+					<rect id="Rectangle 580" class="s247" x="275.4" y="296.2" width="189" height="57.9" rx="10.2"></rect>
+					<rect id="Rectangle 581" class="s248" x="275.4" y="296.1" width="189" height="57.9" rx="10.2"></rect>
+					<rect id="Rectangle 582" class="s249" x="275.3" y="296.1" width="189" height="57.9" rx="10.1"></rect>
+					<rect id="Rectangle 583" class="s250" x="275.3" y="296.1" width="189" height="57.9" rx="10.1"></rect>
+					<rect id="Rectangle 584" class="s251" x="275.3" y="296.1" width="189" height="57.9" rx="10.1"></rect>
+					<rect id="Rectangle 585" class="s252" x="275.3" y="296.1" width="189" height="57.9" rx="10.1"></rect>
+					<rect id="Rectangle 586" class="s253" x="275.3" y="296" width="189" height="57.9" rx="10.1"></rect>
+					<rect id="Rectangle 587" class="s254" x="275.3" y="296" width="189" height="57.9" rx="10"></rect>
+					<rect id="Rectangle 588" class="s255" x="275.2" y="296" width="189" height="57.9" rx="10"></rect>
+					<rect id="Rectangle 589" class="s256" x="275.2" y="296" width="189" height="57.9" rx="10"></rect>
+					<rect id="Rectangle 590" class="s257" x="275.2" y="296" width="189" height="57.9" rx="10"></rect>
+					<rect id="Rectangle 591" class="s258" x="275.2" y="295.9" width="189" height="57.9" rx="9.9"></rect>
+					<rect id="Rectangle 592" class="s259" x="275.2" y="295.9" width="189" height="57.9" rx="9.9"></rect>
+					<rect id="Rectangle 593" class="s260" x="275.1" y="295.9" width="189" height="57.9" rx="9.9"></rect>
+					<rect id="Rectangle 594" class="s261" x="275.1" y="295.9" width="189" height="57.9" rx="9.9"></rect>
+					<rect id="Rectangle 595" class="s262" x="275.1" y="295.9" width="189" height="57.9" rx="9.8"></rect>
+					<rect id="Rectangle 596" class="s263" x="275.1" y="295.8" width="189" height="57.9" rx="9.8"></rect>
+					<rect id="Rectangle 597" class="s264" x="275.1" y="295.8" width="189" height="57.9" rx="9.8"></rect>
+					<rect id="Rectangle 598" class="s265" x="275" y="295.8" width="189" height="57.9" rx="9.8"></rect>
+					<rect id="Rectangle 599" class="s266" x="275" y="295.8" width="189" height="57.9" rx="9.8"></rect>
+					<rect id="Rectangle 600" class="s267" x="275" y="295.8" width="189" height="57.9" rx="9.7"></rect>
+					<rect id="Rectangle 601" class="s268" x="275" y="295.7" width="189" height="57.9" rx="9.7"></rect>
+					<rect id="Rectangle 602" class="s269" x="275" y="295.7" width="189" height="57.9" rx="9.7"></rect>
+					<rect id="Rectangle 603" class="s270" x="275" y="295.7" width="189" height="57.9" rx="9.7"></rect>
+					<rect id="Rectangle 604" class="s271" x="274.9" y="295.7" width="189" height="57.9" rx="9.6"></rect>
+					<rect id="Rectangle 605" class="s272" x="274.9" y="295.7" width="189" height="57.9" rx="9.6"></rect>
+					<rect id="Rectangle 606" class="s273" x="274.9" y="295.6" width="189" height="57.9" rx="9.6"></rect>
+					<rect id="Rectangle 607" class="s274" x="274.9" y="295.6" width="189" height="57.9" rx="9.6"></rect>
+					<rect id="Rectangle 608" class="s275" x="274.9" y="295.6" width="189" height="57.9" rx="9.5"></rect>
+					<rect id="Rectangle 609" class="s276" x="274.8" y="295.6" width="189" height="57.9" rx="9.5"></rect>
+					<rect id="Rectangle 610" class="s277" x="274.8" y="295.6" width="189" height="57.9" rx="9.5"></rect>
+					<rect id="Rectangle 611" class="s278" x="274.8" y="295.5" width="189" height="57.9" rx="9.5"></rect>
+					<rect id="Rectangle 612" class="s279" x="274.8" y="295.5" width="189" height="57.9" rx="9.5"></rect>
+					<rect id="Rectangle 613" class="s280" x="274.8" y="295.5" width="189" height="57.9" rx="9.4"></rect>
+					<rect id="Rectangle 614" class="s281" x="274.7" y="295.5" width="189" height="57.9" rx="9.4"></rect>
+					<rect id="Rectangle 615" class="s57" x="274.7" y="295.5" width="189" height="57.9" rx="9.4"></rect>
+				</g>
+				<rect id="Rectangle 616" class="s290" x="274.7" y="295.5" width="189" height="57.9" rx="9.4"></rect>
+				<g id="Group 1542">
+					<rect id="Path 6655" class="s19" x="336.7" y="324" width="98.7" height="4" rx="1.7"></rect>
+					<rect id="Path 6656" class="s19" x="336.7" y="333" width="98.7" height="4" rx="1.7"></rect>
+					<rect id="Path 6657" class="s19" x="336.7" y="342.1" width="59.8" height="4" rx="1.7"></rect>
+				</g>
+				<g id="Group 1544">
+					<g id="Group 1543">
+						<path id="Path 6658" class="s291" d="m355.9 308.3l-4.3 4.1 1 5.9-5.3-2.8-5.2 2.8 1-5.9-4.3-4.1 5.9-0.9 2.6-5.3 2.7 5.3z"/>
+						<path id="Path 6659" class="s292" d="m375.6 308.3l-4.3 4.1 1 5.9-5.2-2.8-5.3 2.8 1-5.9-4.3-4.1 5.9-0.9 2.7-5.3 2.6 5.3z"/>
+						<path id="Path 6660" class="s293" d="m395.3 308.3l-4.3 4.1 1 5.9-5.2-2.8-5.3 2.8 1-5.9-4.3-4.1 5.9-0.9 2.7-5.3 2.6 5.3z"/>
+						<path id="Path 6661" class="s294" d="m415 308.3l-4.3 4.1 1 5.9-5.2-2.8-5.3 2.8 1-5.9-4.2-4.1 5.8-0.9 2.7-5.3 2.6 5.3z"/>
+					</g>
+					<path id="Path 6662" fill-rule="evenodd" class="s57" d="m431.8 306.5l7.4 1.1-5.4 5.2 1.3 7.4-6.6-3.5-6.7 3.5 1.3-7.4-5.4-5.2 7.4-1.1 3.4-6.7zm-4.8 0.9l-0.5 1-1.1 0.2-3.2 0.4 2.3 2.3 0.8 0.7-0.1 1.1-0.6 3.2 2.9-1.5 0.9-0.5 1 0.5 2.9 1.5-0.6-3.2-0.2-1.1 0.8-0.7 2.3-2.3-3.1-0.4-1.1-0.2-0.5-1-1.5-2.9z"/>
+				</g>
+				<g id="Group 1549">
+					<path id="Ellipse 336" class="s19" d="m311.7 346.7c-10.1 4.2-21.7-0.6-25.9-10.7-4.2-10.1 0.6-21.7 10.7-25.9 10.2-4.2 21.8 0.6 26 10.7 4.2 10.1-0.6 21.7-10.8 25.9z"/>
+					<g id="Group 1548">
+						<g id="Group 1547" clip-path="url(#cp2)">
+							<g id="Group 1546">
+								<g id="Group 1545">
+									<path id="Path 6663" class="s5" d="m314.8 327.8c-0.2 0.7-0.5 1.3-0.9 1.9-0.4 0.7-0.9 1.4-1.7 1.6-0.5 1.2-1.1 2.3-1.9 3.4-0.9 1.2-1.9 2.3-3.2 3-1 0.6-2 0.9-3.1 0.9-1.1 0-2.2-0.3-3.1-0.9-1.3-0.7-2.3-1.8-3.2-3-0.8-1.1-1.4-2.2-1.9-3.4-0.8-0.2-1.3-0.9-1.7-1.6-0.4-0.6-0.7-1.2-0.9-1.9-0.2-0.6-0.2-1.3 0.1-2q0.1-0.1 0.2-0.2 0.1-0.1 0.2 0 0.4 0 0.7 0.2 0 0 0 0 0-0.3 0-0.5 0-0.1 0-0.1 0-0.3 0-0.6 0-0.7 0-1.5v-0.8c0.2-3.8 9.6-4.1 9.6-4.1 0 0 9.4 0.3 9.6 4.1v0.8q0 0.8 0 1.5 0 0.3 0 0.6 0 0 0 0.1 0 0.2 0 0.5 0 0 0 0 0.3-0.2 0.7-0.2 0.1-0.1 0.2 0 0.1 0.1 0.2 0.2c0.3 0.7 0.3 1.4 0.1 2z"/>
+									<path id="Path 6664" class="s3" d="m294.8 327c-2.3-4.7 0-9.8-0.4-10.3-0.3-0.4-0.6-1.4-0.6-1.4 0 0 0 0.2 0.9 0.2 0.8 0 5.2-3.9 9.6-4.7 4.4-0.8 6 3.2 6 3.2 0 0 1.4 0.2 3.5 2.6 2 2.4-0.4 11-0.4 11 0 0 0.2-1.9-0.1-2.2-0.3-0.3-0.7-0.6-0.9-2.6-0.1-1.9-1.8-3-3-3.5-1.1-0.4-1.9 0.8-4.4 1.5-2.6 0.7-7.1-1-8.1-1.2-1-0.3-0.4 4.6-1.3 5.3-0.8 0.7-0.1 2.8-0.1 2.8 0 0-0.3 0.3-0.7-0.7z"/>
+								</g>
+								<path id="Rectangle 617" class="s5" d="m299.9 336.8h8.5v10.3h-8.5z"/>
+								<path id="Path 6665" class="s295" d="m288.2 356.9l0.1-12.5c0 0 8.2-3.7 11.4-4.4v0.2c-0.2 0.1-0.3 0.3-0.3 0.4 0.1 0.8 4.6 2.1 4.7 2.2 0.2-0.1 4.7-1.4 4.8-2.2 0-0.1-0.1-0.3-0.3-0.4v-0.2c3.2 0.7 11.4 4.4 11.4 4.4 0 0-0.1 5.3-0.1 12.5z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path id="Path 6666" class="s296" d="m464.3 316.9l-9.3 9 2.2 12.8-11.5-6-11.5 6 2.2-12.8-9.3-9 12.9-1.9 5.7-11.6 5.8 11.6z"/>
+		<g id="Group 1552">
+			<path id="Path 6667" class="s297" d="m461.3 344.6c0.5 0.5 1.5 1.3 1.9 2 0.3 0.6 0 0.8-0.2 1.5-0.1 0.4-0.3 0.7-0.6 1.1-0.5 0.7-1.1 1.4-1.8 1.8q-0.2 0.1-0.3 0.1-0.2 0-0.3-0.1c-0.7-0.5-1.2-1.1-1.7-1.6q-0.8-0.8-1.8-1.4c-0.4-0.3-0.9-0.6-1.2-1-0.3-0.3-0.5-0.7-0.6-1.1-0.3-0.6-0.4-1.3-0.2-1.9 0.3-0.6 1-1 1.1-1.7 0.1-0.5-0.2-1.1-0.5-1.5q-0.8-1.3-1.4-2.6c-0.3-0.7-0.6-1.4-0.3-2 0.1-0.3 0.4-0.5 0.6-0.4 0.2 0 0.3 0.1 0.4 0.3 0.6 0.6 1.1 1.4 1.6 2.1q0.9 1.3 2.1 2.4c0.3 0.2 0.5 0.4 0.8 0.5 0.3 0.1 0.6 0.1 0.9 0.2 0.5 0.2 0.7 0.9 0.8 1.6 0.1 0.6 0.2 1.3 0.7 1.7z"/>
+			<path id="Path 6668" class="s297" d="m500.9 536.1l-0.2-2.8h6.4l-0.2 2.8z"/>
+			<path id="Path 6669" class="s297" d="m543.9 536.3l-0.3-3h6.3l-0.2 3z"/>
+			<path id="Path 6670" class="s298" d="m539.6 542.3c0.1-0.6 0.6-1.1 1.4-1.5l2-4.7h7.6l1.3 4.5c1.1 0.4 1.9 1 2 1.7v2.5c0 0.3-0.2 0.5-0.4 0.5h-13.6c-0.2 0-0.3-0.2-0.3-0.5v-2.5z"/>
+			<path id="Path 6671" class="s299" d="m507.7 536.1c0 0 0.3 8.5 0.1 8.7-0.2 0.2-22.6 0-22.7 0-0.2 0-1.6-0.8-0.7-2.3 0.8-1.5 11.5-3 12.4-3.7 1-0.7 1.9-2.7 1.9-2.7z"/>
+			<path id="Path 6672" class="s300" d="m505 416c0.7-1.6 1.3-2.8 1.7-3.4 9-2.3 33.5-2.6 37.1-1.4q0.4 0.1 0.7 0.3 0.6 1.2 1.2 2.5 0.3 0.7 0.6 1.4c5.1 12 7.1 30.4 7.6 49.1 0.2 10.7 0 21.4-0.4 31.1-1 21.3-2.9 37.7-2.9 37.7h-7.6c0-0.4-0.5-5-1.4-12.1-0.5-6.4-4.2-56-8.1-70-4.2-15-9.3-14.8-9.3-14.8l0.1 0.5q-0.3-0.4-0.7-0.5 0-0.1 0-0.1-0.3-0.1-0.5-0.1c-2.2-0.1-4.3 8.1-6.4 19.8-4.9 28.4-8.8 77.3-8.8 77.3h-8c0 0-3.3-43.3-3.5-65.8-0.2-28.1 5.3-44.4 8.6-51.5z"/>
+			<path id="Path 6673" class="s301" d="m533.5 451.2c3.9 14 7.6 63.6 8.1 70-1.4-11.6-3.9-29.9-6.8-46.5-3.1-17.8-6.7-33.7-10.2-37.6q-0.1-0.1-0.3-0.2l-0.1-0.5c0 0 5.1-0.2 9.3 14.8z"/>
+			<path id="Path 6674" class="s302" d="m533.5 451.2c3.9 14 7.6 63.6 8.1 70-1.4-11.6-3.9-29.9-6.8-46.5-3.1-17.8-6.7-33.7-10.2-37.6q-0.1-0.1-0.3-0.2l-0.1-0.5c0 0 5.1-0.2 9.3 14.8z"/>
+			<path id="Path 6675" class="s297" d="m525.3 342l10.2-0.7-1.2 12.4-9 0.4-1.6-7.6z"/>
+			<path id="Path 6676" class="s297" d="m521 329.5c-0.2-2.4 0.9-2.8 2.3-2.7 1.4 0.1 3.1 0.7 4.2 0.7 1.2 0.1 2.4 0.2 3.6 0.4 2.1 0.3 2.6 2.4 2.6 3.7q0 0.1 0 0.1c0.1 1.3-0.2 4.3 0.1 5.3 0.3 1.1 2-3.3 3.8-3.4 0.4 0 0.7 0 1.1 0.2 0.8 0.4 1.3 1.3 1.3 2.2-0.1 1.2-0.9 2.3-1.7 3.1-0.9 0.8-1.9 1.4-2.8 2.2-1.6 1.6-2.6 4.1-4.5 5.5-2.1 1.5-5.2 1.3-7.3-0.3-2.1-1.5-3.3-4.3-3.5-7-0.2-3.4 1.1-6.6 0.8-10z"/>
+			<path id="Path 6677" class="s297" d="m528.5 329.2c-2.7-0.8-4.6-2-5.2-2.4 1.4 0.1 3.1 0.7 4.2 0.7 1.2 0.1 2.4 0.2 3.6 0.4 2.1 0.3 2.6 2.4 2.6 3.7q0 0.1 0 0.1c-0.6-1.1-2.5-1.8-5.2-2.5z"/>
+			<path id="Path 6678" class="s302" d="m548 419.4c1.2 1.1 0.3 3-0.1 4.2-0.5 1.2-2.8 3.1-18.1 2.7-25.5-0.1-26.5-6.2-26.5-6.2 1.7-3.1 43.5-1.7 44.7-0.7z"/>
+			<path id="Path 6679" class="s303" d="m548.2 394.8l-0.2 10.5c0.2 1.8 0.4 3.6 0.5 5.3 0.6 7.1 1.2 11.1-4.2 12.3-8 1.9-50 5.2-41.5-9.9 2.8-4.8 5.1-23.3 5.3-31.4v-0.1c0-0.4 0-0.9 0-1.5q-0.1-1.2-0.2-1.8-0.1-0.1-0.1-0.2c-1.1-3.2-10.1 6.6-21.6 2.2q-1.3-0.5-2.7-1.4c-3-1.8-6.2-4.5-9.3-7.7q-0.8-0.8-1.6-1.7c-7.5-8-13.4-18.9-13.4-18.9 0 0 1.3-4.1 3.9-4 0.4 0 19.2 24 30.8 15.3 11.7-8.8 14.6-11.3 15.2-11.7 1.2-0.8 3.8-1.5 6.7-1.1q0.2 0 0.5 0.1 0 0 0-0.1c0.9-0.1 15.5 2.1 15.5 2.1 1.2 0.1 3.5 0.3 6.1 0.6q0.2 0 0.3 0c3 0.3 6 1.4 8.2 1.3 0.3 0 0.3 0 0.5 0.1q0 0 0.1 0c0 0 7 2.2 9.6 14.5 0 0 6.4 21.8 2.6 25.1-1.2 1.2-2.9 1.8-4.6 2.1-3.2 0.6-6.4 0-6.4 0z"/>
+			<path id="Path 6680" class="s302" d="m486.2 380.2q-1.3-0.5-2.7-1.4c-3-1.8-6.2-4.5-9.3-7.7q-0.8-0.8-1.6-1.7c1.7 1.4 5.5 4.1 13.2 7.9 11.6 5.6 21-7.2 21-7.2l1.1 8.1q-0.1-0.1-0.1-0.2c-1.1-3.2-10.1 6.6-21.6 2.2z"/>
+			<path id="Path 6681" class="s304" d="m524.6 437.1c-0.5-0.4-0.8-0.6-1-0.7q0.5 0.2 1 0.7z"/>
+			<path id="Path 6682" class="s305" d="m523.6 436.4q0 0 0-0.1 0 0 0 0.1z"/>
+			<path id="Path 6683" class="s9" d="m523.6 436.4q0 0 0-0.1 0 0 0 0.1z"/>
+			<path id="Path 6684" class="s9" d="m552.1 392q1.4 1.6 2.5 2.8c-3.2 0.6-6.4 0-6.4 0l-0.3-22.6c0 0 1.4 16.4 4.2 19.8z"/>
+			<path id="Path 6685" class="s3" d="m519.4 316.9c1.4-1.7 3.8-2.7 6-2.3 0.5 0 1 0.2 1.4 0.6 0.3 0.2 0.6 0.6 0.8 1 1 1.6 2.4 3 4.1 4 2 1.3 4.3 2 6.5 3.1 1.2 0.6 2.5 1.3 3.1 2.6 0.6 1.1 1.3 2.9 1.2 4.7 0 0.7 0.1 1 0 1.6-0.4 3.1-0.6 4.6-1.9 7.2-0.4 0.7-1.6 2.2-2.2 2.8-0.9 0.7-1 0.9-2.2 1.9-0.4 0.2-0.9 0.8-1.5 1-1.8 1.3-5.4 1.1-7.2 0.2-1.9-1-3.6-5.3-3.5-6 0-0.8 1.3-1.7 1.5-3.7 0.2-2-0.3-2-1.4-0.7-1.1 1.2-0.7 0.4-1.3-2.7-0.2-1.2-0.2-2-0.1-2.6-2.3-1.3-4.2-3.9-4.7-6.3-0.5-2.2 0-4.6 1.4-6.4z"/>
+		</g>
+	</g>
+</svg>

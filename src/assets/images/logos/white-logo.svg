@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 70" width="250" height="70">
+	<title>white-logo</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #f9f9f9 } 
+		.t1 { font-size: 27px;line-height: 32px;fill: #f9f9f9;font-weight: 700;font-family: "Ubuntu-Bold", "Ubuntu" } 
+		.t2 { font-size: 11px;line-height: 13px;fill: #f9f9f9;font-weight: 400;font-family: "Ubuntu-Regular", "Ubuntu" } 
+	</style>
+	<g id="Logo">
+		<path id="Path 9" fill-rule="evenodd" class="s0" d="m69.6 46.8c0 4.4-3.5 8-7.9 8h-38.7c-4.4 0-8-3.6-8-8v-20.5c0-3.2 2-6 4.8-7.2q0-0.1 0-0.1c2.1-0.9 6.4-0.6 8.9-0.6v-3.4c0-4.4 3.5-8 7.9-8h11.4c4.4 0 8 3.6 8 8v3.4c2.6 0 6.5-0.4 8.9 0.7 6.2 2.7 4.7 7.8 4.7 27.7zm-34.1-28.4h13.6v-3.4c0-0.7-0.5-1.2-1.1-1.2h-11.4c-0.6 0-1.1 0.5-1.1 1.2zm27.3 12.5c0-6.3 0.8-5.7-3.9-5.7l-16.6 8.7-16.6-8.7c-4.6 0-3.9-0.7-3.9 5.7 1.2 0.6 19.1 10.2 20.5 10.2 1.4 0 19.3-9.6 20.5-10.2z"/>
+		<text id="NAME HERE" style="transform: matrix(1,0,0,1,80.529,36.593)" >
+			<tspan x="0" y="0" class="t1">NAME HERE
+</tspan>
+		</text>
+		<text id="YOURSLOGAN HERE" style="transform: matrix(1,0,0,1,82.717,52.929)" >
+			<tspan x="0" y="0" class="t2" dx="0 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4" >YOURSLOGAN HERE
+</tspan>
+		</text>
+	</g>
+</svg>

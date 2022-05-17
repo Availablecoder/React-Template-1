@@ -1,0 +1,50 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 632" width="1920" height="632">
+	<title>overlay</title>
+	<style>
+		.s0 { fill: none;stroke: #25cb89;stroke-linecap: round } 
+		.s1 { fill: none;stroke: #25cb89;stroke-linecap: round;stroke-width: 1 } 
+		.s2 { fill: none;stroke: #25cb89;stroke-linecap: round;stroke-width: .9 } 
+		.s3 { fill: none;stroke: #25cb89;stroke-linecap: round;stroke-width: .8 } 
+		.s4 { fill: none;stroke: #25cb89;stroke-linecap: round;stroke-width: .7 } 
+		.s5 { fill: none;stroke: #25cb89;stroke-linecap: round;stroke-width: .6 } 
+		.s6 { fill: none;stroke: #25cb89;stroke-linecap: round;stroke-width: .5 } 
+		.s7 { fill: none;stroke: #25cb89;stroke-linecap: round;stroke-width: .4 } 
+		.s8 { fill: none;stroke: #25cb89;stroke-linecap: round;stroke-width: .3 } 
+	</style>
+	<g id="Pattern">
+		<g id="Group 982" style="opacity: .3">
+			<path id="Path 5497" class="s0" d="m-103.3 43.6c613.9-304.6 679 1439.6 2030.8-80.6"/>
+			<path id="Path 5498" class="s1" d="m-101.8 63.9c633.8-352.9 715.1 1398.5 2034.5-73.3"/>
+			<path id="Path 5499" class="s1" d="m1934.5 15.3c-534.1 590.8-863.3 633.5-1112.1 510.1-351.5-174.3-543.6-678.8-926-444.1"/>
+			<path id="Path 5500" class="s2" d="m-105.4 98.2c673.6-449.4 787.2 1316.5 2041.7-58.6"/>
+			<path id="Path 5501" class="s2" d="m-97.2 114.3c693.6-497.7 823.3 1275.4 2045.4-51.3"/>
+			<path id="Path 5502" class="s2" d="m-93.7 133.4c713.5-546 859.4 1234.3 2049.1-44"/>
+			<path id="Path 5503" class="s2" d="m-92.1 157.9c733.4-594.2 895.4 1193.3 2052.6-36.7"/>
+			<path id="Path 5504" class="s3" d="m-90.6 182.5c753.3-642.5 931.5 1152.2 2056.3-29.4"/>
+			<path id="Path 5505" class="s3" d="m-89.1 207c773.2-690.7 967.6 1111.2 2060-22"/>
+			<path id="Path 5506" class="s3" d="m-87.6 231.5c793.2-738.9 1003.7 1070.2 2063.7-14.6"/>
+			<path id="Path 5507" class="s3" d="m-86 256.1c813-787.2 1039.7 1029.1 2067.3-7.4"/>
+			<path id="Path 5508" class="s4" d="m-84.5 280.6c833-835.5 1075.8 988.1 2070.9 0"/>
+			<path id="Path 5509" class="s4" d="m-83 305.2c852.9-883.8 1111.9 947 2074.6 7.3"/>
+			<path id="Path 5510" class="s4" d="m-81.5 329.7c872.9-932 1148 906 2078.3 14.7"/>
+			<path id="Path 5511" class="s4" d="m-79.9 354.3c892.7-980.3 1184 864.9 2081.9 22"/>
+			<path id="Path 5512" class="s5" d="m-78.4 378.8c912.6-1028.5 1220.1 823.9 2085.6 29.3"/>
+			<path id="Path 5513" class="s5" d="m-76.9 403.4c932.6-1076.8 1256.2 782.8 2089.2 36.6"/>
+			<path id="Path 5514" class="s5" d="m-75.4 427.9c952.5-1125 1292.3 741.8 2092.9 44"/>
+			<path id="Path 5515" class="s5" d="m-73.8 452.5c972.3-1173.3 1328.2 700.7 2096.5 51.3"/>
+			<path id="Path 5516" class="s6" d="m-72.3 477c992.3-1221.6 1364.3 659.7 2100.2 58.6"/>
+			<path id="Path 5517" class="s6" d="m-70.8 501.6c1012.2-1269.9 1400.4 618.6 2103.8 65.9"/>
+			<path id="Path 5518" class="s6" d="m-69.2 526.1c1032-1318.1 1436.4 577.6 2107.4 73.3"/>
+			<path id="Path 5519" class="s6" d="m-67.7 550.7c1052-1366.4 1472.5 536.6 2111.1 80.6"/>
+			<path id="Path 5520" class="s7" d="m-66.2 575.2c1071.9-1414.6 1508.5 495.6 2114.8 88"/>
+			<path id="Path 5521" class="s7" d="m-64.7 599.8c1091.8-1462.9 1544.6 454.5 2118.5 95.2"/>
+			<path id="Path 5522" class="s7" d="m-63.1 624.3c1111.7-1511.1 1580.6 413.5 2122 102.6"/>
+			<path id="Path 5523" class="s7" d="m-61.6 648.9c1131.6-1559.4 1616.7 372.4 2125.7 109.9"/>
+			<path id="Path 5524" class="s8" d="m-60.1 673.4c1151.5-1607.7 1652.7 331.4 2129.4 117.3"/>
+			<path id="Path 5525" class="s8" d="m-58.6 698c1171.4-1656 1688.8 290.3 2133.1 124.5"/>
+			<path id="Path 5526" class="s8" d="m-57 722.5c1191.3-1704.2 1724.8 249.3 2136.6 131.9"/>
+			<path id="Path 5527" class="s8" d="m-55.5 747.1c1211.2-1752.5 1760.8 208.2 2140.3 139.2"/>
+			<path id="Path 5528" class="s8" d="m-54 771.6c1231.1-1800.7 1796.9 167.2 2144 146.6"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,28 @@
+.news-letter {
+  padding-bottom: 150px;
+}
+.subscribe-input-text {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  padding: 17px 10px 17px 30px;
+  width: 100%;
+  outline: none;
+  border: 1px solid #fff;
+  border-radius: 50px;
+}
+.subscribe-input-text:focus {
+  border-color: var(--sec-color-2);
+}
+
+.subscribe-input-submit {
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  padding: 10px 20px;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}

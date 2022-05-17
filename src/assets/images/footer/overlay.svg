@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 886" width="1920" height="886">
+	<title>overlay</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="-1.8369701987210297e-16" dy="-3" stdDeviation="9.583333333333334" flood-color="#000000" flood-opacity=".1"/></filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f2" ><feDropShadow dx="-3.061616997868383e-16" dy="-5" stdDeviation="9.583333333333334" flood-color="#000000" flood-opacity=".2"/></filter>
+		<linearGradient id="g1" x1="1009.5" y1="928.6" x2="1138.7" y2="58.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#120648"/>
+			<stop offset="0" stop-color="#120648"/>
+			<stop offset=".6" stop-color="#493eff"/>
+			<stop offset="1" stop-color="#00ded3"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { filter: url(#f1);fill: #f8f4f4 } 
+		.s1 { filter: url(#f2);fill: url(#g1) } 
+	</style>
+	<g id="Footer BG">
+		<g id="Header BG">
+			<path id="Path 6929" class="s0" d="m0 22c0 0 216 73.3 394 45.2 178-28 296 56.2 674 23.5 378-32.8 452 17.1 604 0 152-17.2 248 74.8 248 74.8l2 724h-1922z"/>
+			<path id="Path 6930" class="s1" d="m0 112c0 0 584 124.7 1206 82.1 622-42.6 827.3 447.5 812.2 693.4-350.2 0-2018.2 0-2018.2 0z"/>
+		</g>
+	</g>
+</svg>
