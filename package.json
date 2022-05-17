@@ -21,7 +21,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -r https://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@github.com/Availablecoder/React-Template-1.git",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
