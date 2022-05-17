@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-Template-1/static/css/main.f2d84bc9.css",
+    "main.js": "/React-Template-1/static/js/main.91dceb15.js",
+    "static/js/787.a4b7962c.chunk.js": "/React-Template-1/static/js/787.a4b7962c.chunk.js",
+    "static/media/Image.svg": "/React-Template-1/static/media/Image.8bf703d6d66d2a3616a43ce2ec689d38.svg",
+    "static/media/maps.svg": "/React-Template-1/static/media/maps.e07497dc0dd8ec81a636.svg",
+    "static/media/testimonials.svg": "/React-Template-1/static/media/testimonials.afc5f22ce8dabfdeab54bef143cf54e5.svg",
+    "static/media/person.svg": "/React-Template-1/static/media/person.21a5fcf0c62a07b090b0c9b4e77d4df5.svg",
+    "static/media/vector-image.svg": "/React-Template-1/static/media/vector-image.ce21a1317ab9506cd7ef54b93f8dbee5.svg",
+    "static/media/vector-object.svg": "/React-Template-1/static/media/vector-object.93839f6aa970fa635520482ada013f86.svg",
+    "static/media/rocket.svg": "/React-Template-1/static/media/rocket.b085a09d390437672724209b97c114a6.svg",
+    "static/media/serv2.svg": "/React-Template-1/static/media/serv2.0d6ea08b68cd278ccf2352d3b4673610.svg",
+    "static/media/serv3.svg": "/React-Template-1/static/media/serv3.25dcfa537448ad69ceca3f3f9e07b2fc.svg",
+    "static/media/stars.svg": "/React-Template-1/static/media/stars.fba098496f62ffdcf2d5.svg",
+    "static/media/overlay.svg": "/React-Template-1/static/media/overlay.17821c662cfe9db319ad.svg",
+    "static/media/serv1.svg": "/React-Template-1/static/media/serv1.5511f3ffdfa92b6536b4f4dab9ebbd72.svg",
+    "static/media/ring.svg": "/React-Template-1/static/media/ring.9044a9ae1047c1253fc56e12b56efcce.svg",
+    "static/media/layout.svg": "/React-Template-1/static/media/layout.eb35a1660f0dce400fc9.svg",
+    "static/media/colored-logo.svg": "/React-Template-1/static/media/colored-logo.3c17c83803d6d3c754bfef0a9337e0e6.svg",
+    "static/media/clouds.svg": "/React-Template-1/static/media/clouds.4d3aca8b35f25863f413dd8ba845969d.svg",
+    "static/media/white-logo.svg": "/React-Template-1/static/media/white-logo.e8fd903827afa24fa264be77777c9799.svg",
+    "index.html": "/React-Template-1/index.html",
+    "main.f2d84bc9.css.map": "/React-Template-1/static/css/main.f2d84bc9.css.map",
+    "main.91dceb15.js.map": "/React-Template-1/static/js/main.91dceb15.js.map",
+    "787.a4b7962c.chunk.js.map": "/React-Template-1/static/js/787.a4b7962c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d84bc9.css",
+    "static/js/main.91dceb15.js"
+  ]
+}
